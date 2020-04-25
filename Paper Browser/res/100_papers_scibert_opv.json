@@ -1,0 +1,4134 @@
+{
+    "search-results": {
+        "opensearch:totalResults": "451",
+        "opensearch:startIndex": "0",
+        "opensearch:itemsPerPage": "100",
+        "opensearch:Query": {
+            "@role": "request",
+            "@searchTerms": "organic&photovoltaics",
+            "@startPage": "0"
+        },
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/search/sciencedirect?start=0&count=100&query=organic%26photovoltaics&apiKey=4bc84cbdadca6050062348015ac963aa",
+                "@type": "application/json"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "first",
+                "@href": "https://api.elsevier.com/content/search/sciencedirect?start=0&count=100&query=organic%26photovoltaics&apiKey=4bc84cbdadca6050062348015ac963aa",
+                "@type": "application/json"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "next",
+                "@href": "https://api.elsevier.com/content/search/sciencedirect?start=100&count=100&query=organic%26photovoltaics&apiKey=4bc84cbdadca6050062348015ac963aa",
+                "@type": "application/json"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "last",
+                "@href": "https://api.elsevier.com/content/search/sciencedirect?start=351&count=100&query=organic%26photovoltaics&apiKey=4bc84cbdadca6050062348015ac963aa",
+                "@type": "application/json"
+            }
+        ],
+        "entry": [
+            {
+                "@_fa": "true",
+                "load-date": "2019-10-04T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S003040261931441X"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S003040261931441X?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.ijleo.2019.163543",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S003040261931441X",
+                "dc:title": "Study of p-type doping effect on P3HT: ICBA based organic photovoltaic solar cell performance",
+                "dc:creator": "M. Erray",
+                "prism:publicationName": "Optik",
+                "prism:volume": "202",
+                "prism:coverDate": "2020-02-29",
+                "prism:startingPage": "163543",
+                "prism:doi": "10.1016/j.ijleo.2019.163543",
+                "openaccess": false,
+                "pii": "S003040261931441X",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "M. Erray"
+                        },
+                        {
+                            "$": "M. Hanine"
+                        },
+                        {
+                            "$": "A. El Amrani"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2019-09-26T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S074960361931362X"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S074960361931362X?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.spmi.2019.106278",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S074960361931362X",
+                "dc:title": "Influence of active layer thickness on photovoltaic performance of PTB7:PC70BM bulk heterojunction solar cell",
+                "dc:creator": "Nidhi Sharma",
+                "prism:publicationName": "Superlattices and Microstructures",
+                "prism:volume": "135",
+                "prism:coverDate": "2019-11-30",
+                "prism:startingPage": "106278",
+                "prism:doi": "10.1016/j.spmi.2019.106278",
+                "openaccess": false,
+                "pii": "S074960361931362X",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Nidhi Sharma"
+                        },
+                        {
+                            "$": "Saral K. Gupta"
+                        },
+                        {
+                            "$": "Chandra Mohan Singh Negi"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2018-08-27T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0030402618312750"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0030402618312750?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.ijleo.2018.08.125",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0030402618312750",
+                "dc:title": "Analysis of the GaSb-p<ce:sup loc=post>+</ce:sup>/GaSb-p/GaSb-n<ce:sup loc=post>+</ce:sup>/GaSb-n structure performances at room temperature, for thermo-photovoltaic applications",
+                "dc:creator": "F. Z. Meharrar",
+                "prism:publicationName": "Optik",
+                "prism:volume": "175",
+                "prism:coverDate": "2018-12-31",
+                "prism:startingPage": "138",
+                "prism:endingPage": "147",
+                "prism:doi": "10.1016/j.ijleo.2018.08.125",
+                "openaccess": false,
+                "pii": "S0030402618312750",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "F. Z. Meharrar"
+                        },
+                        {
+                            "$": "A. Belfar"
+                        },
+                        {
+                            "$": "I. Aouad"
+                        },
+                        {
+                            "$": "E. Giudicelli"
+                        },
+                        {
+                            "$": "H. Aït-kaci"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2017-02-20T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0925346717300903"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0925346717300903?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.optmat.2017.02.020",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0925346717300903",
+                "dc:title": "Quasi-white light emission involving Förster resonance energy transfer in a new organic inorganic tin chloride based material (AMPS)[SnCl<ce:inf loc=post>6</ce:inf>]H<ce:inf loc=post>2</ce:inf>O",
+                "dc:creator": "Thameur Dammak",
+                "prism:publicationName": "Optical Materials",
+                "prism:volume": "66",
+                "prism:coverDate": "2017-04-30",
+                "prism:startingPage": "302",
+                "prism:endingPage": "307",
+                "prism:doi": "10.1016/j.optmat.2017.02.020",
+                "openaccess": false,
+                "pii": "S0925346717300903",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Thameur Dammak"
+                        },
+                        {
+                            "$": "Younes Abid"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2016-04-26T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0927024816300381"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0927024816300381?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.solmat.2016.04.024",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0927024816300381",
+                "dc:title": "Life-cycle assessment of cradle-to-grave opportunities and environmental impacts of organic photovoltaic solar panels compared to conventional technologies",
+                "dc:creator": "Michael P. Tsang",
+                "prism:publicationName": "Solar Energy Materials and Solar Cells",
+                "prism:volume": "156",
+                "prism:coverDate": "2016-11-30",
+                "prism:startingPage": "37",
+                "prism:endingPage": "48",
+                "prism:doi": "10.1016/j.solmat.2016.04.024",
+                "openaccess": false,
+                "pii": "S0927024816300381",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Michael P. Tsang"
+                        },
+                        {
+                            "$": "Guido W. Sonnemann"
+                        },
+                        {
+                            "$": "Dario M. Bassani"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2018-02-13T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0038092X17311052"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0038092X17311052?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.solener.2017.12.023",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0038092X17311052",
+                "dc:title": "Advances in approaches and methods for self-cleaning of solar photovoltaic panels",
+                "dc:creator": "A. Syafiq",
+                "prism:publicationName": "Solar Energy",
+                "prism:volume": "162",
+                "prism:coverDate": "2018-03-01",
+                "prism:startingPage": "597",
+                "prism:endingPage": "619",
+                "prism:doi": "10.1016/j.solener.2017.12.023",
+                "openaccess": false,
+                "pii": "S0038092X17311052",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "A. Syafiq"
+                        },
+                        {
+                            "$": "A. K. Pandey"
+                        },
+                        {
+                            "$": "N. N. Adzman"
+                        },
+                        {
+                            "$": "Nasrudin Abd Rahim"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2017-09-14T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1876610217323913"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1876610217323913?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.egypro.2017.05.165",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1876610217323913",
+                "dc:title": "Adaptive Genetic Algorithm Based Multi-Objective Optimization for Photovoltaic Cell Design Parameter Extraction",
+                "dc:creator": "P. Ashwini Kumari",
+                "prism:publicationName": "Energy Procedia",
+                "prism:volume": "117",
+                "prism:coverDate": "2017-06-30",
+                "prism:startingPage": "432",
+                "prism:endingPage": "441",
+                "prism:doi": "10.1016/j.egypro.2017.05.165",
+                "openaccess": true,
+                "pii": "S1876610217323913",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "P. Ashwini Kumari"
+                        },
+                        {
+                            "$": "P. Geethanjali"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2016-11-23T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1364032116308152"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1364032116308152?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.rser.2016.11.109",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1364032116308152",
+                "dc:title": "A review of photovoltaic module technologies for increased performance in tropical climate",
+                "dc:creator": "Osarumen O. Ogbomo",
+                "prism:publicationName": "Renewable and Sustainable Energy Reviews",
+                "prism:volume": "75",
+                "prism:coverDate": "2017-08-31",
+                "prism:startingPage": "1225",
+                "prism:endingPage": "1238",
+                "prism:doi": "10.1016/j.rser.2016.11.109",
+                "openaccess": false,
+                "pii": "S1364032116308152",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Osarumen O. Ogbomo"
+                        },
+                        {
+                            "$": "Emeka H. Amalu"
+                        },
+                        {
+                            "$": "N. N. Ekere"
+                        },
+                        {
+                            "$": "P. O. Olagbegi"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2011-05-31T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0038110111001675"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0038110111001675?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.sse.2011.05.001",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0038110111001675",
+                "dc:title": "Preparation and properties of Ni/InGaN/GaN Schottky barrier photovoltaic cells",
+                "dc:creator": "S. Lin",
+                "prism:publicationName": "Solid-State Electronics",
+                "prism:volume": "63",
+                "prism:coverDate": "2011-09-30",
+                "prism:startingPage": "105",
+                "prism:endingPage": "109",
+                "prism:doi": "10.1016/j.sse.2011.05.001",
+                "openaccess": false,
+                "pii": "S0038110111001675",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "S. Lin"
+                        },
+                        {
+                            "$": "B. P. Zhang"
+                        },
+                        {
+                            "$": "S. W. Zeng"
+                        },
+                        {
+                            "$": "X. M. Cai"
+                        },
+                        {
+                            "$": "G. E. Weng"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2019-12-28T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S019689041931430X"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S019689041931430X?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.enconman.2019.112423",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S019689041931430X",
+                "dc:title": "Radiation detection and energy conversion in nuclear reactor environments by hybrid photovoltaic perovskites",
+                "dc:creator": "Gábor Náfrádi",
+                "prism:publicationName": "Energy Conversion and Management",
+                "prism:volume": "205",
+                "prism:coverDate": "2020-02-01",
+                "prism:startingPage": "112423",
+                "prism:doi": "10.1016/j.enconman.2019.112423",
+                "openaccess": false,
+                "pii": "S019689041931430X",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Gábor Náfrádi"
+                        },
+                        {
+                            "$": "Endre Horváth"
+                        },
+                        {
+                            "$": "Márton Kollár"
+                        },
+                        {
+                            "$": "András Horváth"
+                        },
+                        {
+                            "$": "Bálint Náfrádi"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2019-01-25T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0167577X19301521"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0167577X19301521?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.matlet.2019.01.109",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0167577X19301521",
+                "dc:title": "2-(Aminomethyl pyridine)SbI<ce:inf loc=post>5</ce:inf>: An emerging visible-light driven organic–inorganic hybrid perovskite for photoelectrochemical and photocatalytic applications",
+                "dc:creator": "K. Rokesh",
+                "prism:publicationName": "Materials Letters",
+                "prism:volume": "242",
+                "prism:coverDate": "2019-05-01",
+                "prism:startingPage": "99",
+                "prism:endingPage": "102",
+                "prism:doi": "10.1016/j.matlet.2019.01.109",
+                "openaccess": true,
+                "pii": "S0167577X19301521",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "K. Rokesh"
+                        },
+                        {
+                            "$": "M. Sakar"
+                        },
+                        {
+                            "$": "Trong-On Do"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2019-07-02T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0167931719302102"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0167931719302102?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.mee.2019.111053",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0167931719302102",
+                "dc:title": "Methyl red/ indium-tin-oxide organic diode: An electrical and optoelectronic study",
+                "dc:creator": "Abhijit Banerjee",
+                "prism:publicationName": "Microelectronic Engineering",
+                "prism:volume": "216",
+                "prism:coverDate": "2019-08-15",
+                "prism:startingPage": "111053",
+                "prism:doi": "10.1016/j.mee.2019.111053",
+                "openaccess": false,
+                "pii": "S0167931719302102",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Abhijit Banerjee"
+                        },
+                        {
+                            "$": "Chirasmita Ghosh"
+                        },
+                        {
+                            "$": "Priyanka Chakraborty"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2018-07-04T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1364032118304891"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1364032118304891?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.rser.2018.06.054",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1364032118304891",
+                "dc:title": "Recent theoretical progress in the organic/metal-organic sensitizers as the free dyes, dye/TiO<ce:inf loc=post>2</ce:inf> and dye/electrolyte systems; Structural modifications and solvent effects on their performance",
+                "dc:creator": "Foroogh Arkan",
+                "prism:publicationName": "Renewable and Sustainable Energy Reviews",
+                "prism:volume": "94",
+                "prism:coverDate": "2018-10-31",
+                "prism:startingPage": "609",
+                "prism:endingPage": "655",
+                "prism:doi": "10.1016/j.rser.2018.06.054",
+                "openaccess": false,
+                "pii": "S1364032118304891",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Foroogh Arkan"
+                        },
+                        {
+                            "$": "Mohammad Izadyar"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2003-01-01T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/B0080431526012377"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/B0080431526012377?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/B0-08-043152-6/01237-7",
+                "prism:url": "https://api.elsevier.com/content/article/pii/B0080431526012377",
+                "dc:title": "Photovoltaic Devices from Organic Semiconductors",
+                "dc:creator": "G. G. Malliaras",
+                "prism:publicationName": "Encyclopedia of Materials: Science and Technology",
+                "prism:coverDate": "2001-12-31",
+                "prism:startingPage": "6981",
+                "prism:endingPage": "6986",
+                "prism:doi": "10.1016/B0-08-043152-6/01237-7",
+                "openaccess": false,
+                "pii": "B0080431526012377",
+                "authors": {
+                    "author": "G. G. Malliaras"
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2011-07-23T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0013468611010942"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0013468611010942?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.electacta.2011.06.114",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0013468611010942",
+                "dc:title": "Electrochemical copolymerization of thiophene derivatives; a precursor to photovoltaic devices",
+                "dc:creator": "Prajwal Kumar",
+                "prism:publicationName": "Electrochimica Acta",
+                "prism:volume": "56",
+                "prism:coverDate": "2011-10-01",
+                "prism:startingPage": "8184",
+                "prism:endingPage": "8191",
+                "prism:doi": "10.1016/j.electacta.2011.06.114",
+                "openaccess": false,
+                "pii": "S0013468611010942",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Prajwal Kumar"
+                        },
+                        {
+                            "$": "K. Ranjith"
+                        },
+                        {
+                            "$": "Satyajit Gupta"
+                        },
+                        {
+                            "$": "Praveen C. Ramamurthy"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2020-02-12T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0300944019313384"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0300944019313384?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.porgcoat.2020.105578",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0300944019313384",
+                "dc:title": "A novel organic-inorganic zwitterionic acrylate polymer for high-performance anti-fog coating",
+                "dc:creator": "Ziyang Zheng",
+                "prism:publicationName": "Progress in Organic Coatings",
+                "prism:volume": "142",
+                "prism:coverDate": "2020-05-31",
+                "prism:startingPage": "105578",
+                "prism:doi": "10.1016/j.porgcoat.2020.105578",
+                "openaccess": false,
+                "pii": "S0300944019313384",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Ziyang Zheng"
+                        },
+                        {
+                            "$": "Yuping Liu"
+                        },
+                        {
+                            "$": "Li Wang"
+                        },
+                        {
+                            "$": "Li Yu"
+                        },
+                        {
+                            "$": "Changguo Chen"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2011-03-11T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1566119911000668"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1566119911000668?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.orgel.2011.02.016",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1566119911000668",
+                "dc:title": "Charge accumulation induced S-shape <ce:italic>J</ce:italic>–<ce:italic>V</ce:italic> curves in bilayer heterojunction organic solar cells",
+                "dc:creator": "J. C. Wang",
+                "prism:publicationName": "Organic Electronics",
+                "prism:volume": "12",
+                "prism:coverDate": "2011-06-30",
+                "prism:startingPage": "880",
+                "prism:endingPage": "885",
+                "prism:doi": "10.1016/j.orgel.2011.02.016",
+                "openaccess": false,
+                "pii": "S1566119911000668",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "J. C. Wang"
+                        },
+                        {
+                            "$": "X. C. Ren"
+                        },
+                        {
+                            "$": "S. Q. Shi"
+                        },
+                        {
+                            "$": "C. W. Leung"
+                        },
+                        {
+                            "$": "Paddy K. L. Chan"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2019-09-07T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1010603019311268"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1010603019311268?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.jphotochem.2019.112082",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1010603019311268",
+                "dc:title": "Reaching stability at DSSCs with new type gel electrolytes",
+                "dc:creator": "Tolga Önen",
+                "prism:publicationName": "Journal of Photochemistry and Photobiology A: Chemistry",
+                "prism:volume": "385",
+                "prism:coverDate": "2019-12-01",
+                "prism:startingPage": "112082",
+                "prism:doi": "10.1016/j.jphotochem.2019.112082",
+                "openaccess": false,
+                "pii": "S1010603019311268",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Tolga Önen"
+                        },
+                        {
+                            "$": "Mücella Özbay Karakuş"
+                        },
+                        {
+                            "$": "Ramazan Coşkun"
+                        },
+                        {
+                            "$": "Hidayet Çetin"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2016-04-26T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0196890416303090"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0196890416303090?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.enconman.2016.04.059",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0196890416303090",
+                "dc:title": "Numerical analysis of In<ce:italic><ce:inf loc=post>x</ce:inf></ce:italic>Ga<ce:inf loc=post>1</ce:inf><ce:inf loc=post>−</ce:inf><ce:italic><ce:inf loc=post>x</ce:inf></ce:italic>N/SnS and Al<ce:italic><ce:inf loc=post>x</ce:inf></ce:italic>Ga<ce:inf loc=post>1</ce:inf><ce:inf loc=post>−</ce:inf><ce:italic><ce:inf loc=post>x</ce:inf></ce:italic>N/SnS heterojunction solar cells",
+                "dc:creator": "Shuo Lin",
+                "prism:publicationName": "Energy Conversion and Management",
+                "prism:volume": "119",
+                "prism:coverDate": "2016-07-01",
+                "prism:startingPage": "361",
+                "prism:endingPage": "367",
+                "prism:doi": "10.1016/j.enconman.2016.04.059",
+                "openaccess": false,
+                "pii": "S0196890416303090",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Shuo Lin"
+                        },
+                        {
+                            "$": "Xirong Li"
+                        },
+                        {
+                            "$": "Huaqing Pan"
+                        },
+                        {
+                            "$": "Huanting Chen"
+                        },
+                        {
+                            "$": "Jinrong Zhou"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2019-03-12T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/B978012409547213954X"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/B978012409547213954X?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/B978-0-12-409547-2.13954-X",
+                "prism:url": "https://api.elsevier.com/content/article/pii/B978012409547213954X",
+                "dc:title": "Surface Analysis | Sum Frequency Generation Spectroscopy",
+                "dc:creator": "Nathan W. Ulrich",
+                "prism:publicationName": "Encyclopedia of Analytical Science",
+                "prism:coverDate": "2019-12-31",
+                "prism:startingPage": "393",
+                "prism:endingPage": "399",
+                "prism:doi": "10.1016/B978-0-12-409547-2.13954-X",
+                "openaccess": false,
+                "pii": "B978012409547213954X",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Nathan W. Ulrich"
+                        },
+                        {
+                            "$": "John S. Andre"
+                        },
+                        {
+                            "$": "Zhan Chen"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2018-04-14T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0960148118304592"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0960148118304592?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.renene.2018.04.051",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0960148118304592",
+                "dc:title": "A comparative investigation on in-situ and laboratory standard test of the potential induced degradation of crystalline silicon photovoltaic modules",
+                "dc:creator": "M. A. Islam",
+                "prism:publicationName": "Renewable Energy",
+                "prism:volume": "127",
+                "prism:coverDate": "2018-11-30",
+                "prism:startingPage": "102",
+                "prism:endingPage": "113",
+                "prism:doi": "10.1016/j.renene.2018.04.051",
+                "openaccess": false,
+                "pii": "S0960148118304592",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "M. A. Islam"
+                        },
+                        {
+                            "$": "M. Hasanuzzaman"
+                        },
+                        {
+                            "$": "Nasrudin Abd Rahim"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2015-04-27T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S2215098615000415"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S2215098615000415?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.jestch.2015.03.008",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S2215098615000415",
+                "dc:title": "Tracing of shading effect on underachieving SPV cell of an SPV grid using wireless sensor network",
+                "dc:creator": "Vivek Kaundal",
+                "prism:publicationName": "Engineering Science and Technology, an International Journal",
+                "prism:volume": "18",
+                "prism:coverDate": "2015-09-30",
+                "prism:startingPage": "475",
+                "prism:endingPage": "484",
+                "prism:doi": "10.1016/j.jestch.2015.03.008",
+                "openaccess": true,
+                "pii": "S2215098615000415",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Vivek Kaundal"
+                        },
+                        {
+                            "$": "Amit Kumar Mondal"
+                        },
+                        {
+                            "$": "Paawan Sharma"
+                        },
+                        {
+                            "$": "Kamal Bansal"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2009-12-08T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0927024809003870"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0927024809003870?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.solmat.2009.11.006",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0927024809003870",
+                "dc:title": "Organic solar cells characterized by dark lock-in thermography",
+                "dc:creator": "Jonas Bachmann",
+                "prism:publicationName": "Solar Energy Materials and Solar Cells",
+                "prism:volume": "94",
+                "prism:coverDate": "2010-04-30",
+                "prism:startingPage": "642",
+                "prism:endingPage": "647",
+                "prism:doi": "10.1016/j.solmat.2009.11.006",
+                "openaccess": false,
+                "pii": "S0927024809003870",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Jonas Bachmann"
+                        },
+                        {
+                            "$": "Claudia Buerhop-Lutz"
+                        },
+                        {
+                            "$": "Carsten Deibel"
+                        },
+                        {
+                            "$": "Ingo Riedel"
+                        },
+                        {
+                            "$": "Vladimir Dyakonov"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2016-08-26T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/B9780128030226000022"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/B9780128030226000022?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/B978-0-12-803022-6.00002-2",
+                "prism:url": "https://api.elsevier.com/content/article/pii/B9780128030226000022",
+                "dc:title": "Chapter 2: Fundamentals of Standalone Photovoltaic Systems",
+                "dc:creator": "Salahuddin Qazi",
+                "prism:publicationName": "Standalone Photovoltaic (PV) Systems for Disaster Relief and Remote Areas",
+                "prism:coverDate": "2017-12-31",
+                "prism:startingPage": "31",
+                "prism:endingPage": "82",
+                "prism:doi": "10.1016/B978-0-12-803022-6.00002-2",
+                "openaccess": false,
+                "pii": "B9780128030226000022",
+                "authors": {
+                    "author": "Salahuddin Qazi"
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2018-10-19T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1567173918302785"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1567173918302785?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.cap.2018.10.008",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1567173918302785",
+                "dc:title": "Inverted structure perovskite solar cells: A theoretical study",
+                "dc:creator": "Anurag Sahu",
+                "prism:publicationName": "Current Applied Physics",
+                "prism:volume": "18",
+                "prism:coverDate": "2018-12-31",
+                "prism:startingPage": "1583",
+                "prism:endingPage": "1591",
+                "prism:doi": "10.1016/j.cap.2018.10.008",
+                "openaccess": false,
+                "pii": "S1567173918302785",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Anurag Sahu"
+                        },
+                        {
+                            "$": "Ambesh Dixit"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2018-11-14T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0306261918317239"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0306261918317239?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.apenergy.2018.11.017",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0306261918317239",
+                "dc:title": "Novel strategies and supporting materials applied to shape-stabilize organic phase change materials for thermal energy storage–A review",
+                "dc:creator": "Malik Muhammad Umair",
+                "prism:publicationName": "Applied Energy",
+                "prism:volume": "235",
+                "prism:coverDate": "2019-02-01",
+                "prism:startingPage": "846",
+                "prism:endingPage": "873",
+                "prism:doi": "10.1016/j.apenergy.2018.11.017",
+                "openaccess": false,
+                "pii": "S0306261918317239",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Malik Muhammad Umair"
+                        },
+                        {
+                            "$": "Yuang Zhang"
+                        },
+                        {
+                            "$": "Kashif Iqbal"
+                        },
+                        {
+                            "$": "Shufen Zhang"
+                        },
+                        {
+                            "$": "Bingtao Tang"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2017-09-01T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0030402617310495"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0030402617310495?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.ijleo.2017.08.141",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0030402617310495",
+                "dc:title": "Investigation of highly efficient methyl ammonium lead halide perovskite solar cell with non-textured front surface",
+                "dc:creator": "S. M. Iftiquar",
+                "prism:publicationName": "Optik",
+                "prism:volume": "148",
+                "prism:coverDate": "2017-11-30",
+                "prism:startingPage": "54",
+                "prism:endingPage": "62",
+                "prism:doi": "10.1016/j.ijleo.2017.08.141",
+                "openaccess": false,
+                "pii": "S0030402617310495",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "S. M. Iftiquar"
+                        },
+                        {
+                            "$": "Jung Soo Kim"
+                        },
+                        {
+                            "$": "Junsin Yi"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2017-01-25T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1566119917300447"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1566119917300447?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.orgel.2017.01.034",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1566119917300447",
+                "dc:title": "Modeling the degradation/recovery of short-circuit current density in perovskite and thin film photovoltaics",
+                "dc:creator": "Pezhman Darvishzadeh",
+                "prism:publicationName": "Organic Electronics",
+                "prism:volume": "43",
+                "prism:coverDate": "2017-04-30",
+                "prism:startingPage": "247",
+                "prism:endingPage": "252",
+                "prism:doi": "10.1016/j.orgel.2017.01.034",
+                "openaccess": false,
+                "pii": "S1566119917300447",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Pezhman Darvishzadeh"
+                        },
+                        {
+                            "$": "Ghufran Redzwan"
+                        },
+                        {
+                            "$": "Razi Ahmadi"
+                        },
+                        {
+                            "$": "Nima E. Gorji"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2013-01-23T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0927024812005867"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0927024812005867?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.solmat.2012.12.040",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0927024812005867",
+                "dc:title": "Plasmon enhanced photovoltaic effect in metallically nanomodified photocells",
+                "dc:creator": "Witold Jacak",
+                "prism:publicationName": "Solar Energy Materials and Solar Cells",
+                "prism:volume": "117",
+                "prism:coverDate": "2013-10-31",
+                "prism:startingPage": "663",
+                "prism:endingPage": "666",
+                "prism:doi": "10.1016/j.solmat.2012.12.040",
+                "openaccess": false,
+                "pii": "S0927024812005867",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Witold Jacak"
+                        },
+                        {
+                            "$": "Artur Henrykowski"
+                        },
+                        {
+                            "$": "Krzysztof Marszalski"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2019-04-02T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S2214785318326853"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S2214785318326853?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.matpr.2018.10.380",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S2214785318326853",
+                "dc:title": "One-Pot Synthesis of Flower like FeS<ce:inf loc=post>2</ce:inf> as Counter Electrode for Quantum Dot Sensitized Solar Cells",
+                "dc:creator": "Shwetharani R.",
+                "prism:publicationName": "Materials Today: Proceedings",
+                "prism:volume": "9",
+                "prism:coverDate": "2019-12-31",
+                "prism:startingPage": "594",
+                "prism:endingPage": "598",
+                "prism:doi": "10.1016/j.matpr.2018.10.380",
+                "openaccess": false,
+                "pii": "S2214785318326853",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Shwetharani R."
+                        },
+                        {
+                            "$": "R. Geetha Balakrishna"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2020-03-18T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0038092X20302759"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0038092X20302759?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.solener.2020.03.037",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0038092X20302759",
+                "dc:title": "Design of hole-transport-material free CH<ce:inf loc=post>3</ce:inf>NH<ce:inf loc=post>3</ce:inf>PbI<ce:inf loc=post>3</ce:inf>/CsSnI<ce:inf loc=post>3</ce:inf> all-perovskite heterojunction efficient solar cells by device simulation",
+                "dc:creator": "Qianqian Duan",
+                "prism:publicationName": "Solar Energy",
+                "prism:volume": "201",
+                "prism:coverDate": "2020-05-01",
+                "prism:startingPage": "555",
+                "prism:endingPage": "560",
+                "prism:doi": "10.1016/j.solener.2020.03.037",
+                "openaccess": false,
+                "pii": "S0038092X20302759",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Qianqian Duan"
+                        },
+                        {
+                            "$": "Junyang Ji"
+                        },
+                        {
+                            "$": "Xin Hong"
+                        },
+                        {
+                            "$": "Yichao Fu"
+                        },
+                        {
+                            "$": "Zhi-Yong Wang"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2016-10-19T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1385894716314899"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1385894716314899?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.cej.2016.10.079",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1385894716314899",
+                "dc:title": "Advances in draw solutes for forward osmosis: Hybrid organic-inorganic nanoparticles and conventional solutes",
+                "dc:creator": "Teresa Alejo",
+                "prism:publicationName": "Chemical Engineering Journal",
+                "prism:volume": "309",
+                "prism:coverDate": "2017-02-01",
+                "prism:startingPage": "738",
+                "prism:endingPage": "752",
+                "prism:doi": "10.1016/j.cej.2016.10.079",
+                "openaccess": false,
+                "pii": "S1385894716314899",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Teresa Alejo"
+                        },
+                        {
+                            "$": "Manuel Arruebo"
+                        },
+                        {
+                            "$": "Verónica Carcelen"
+                        },
+                        {
+                            "$": "Victor M. Monsalvo"
+                        },
+                        {
+                            "$": "Victor Sebastian"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2017-11-11T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1364032117314120"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1364032117314120?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.rser.2017.10.028",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1364032117314120",
+                "dc:title": "Recent progress in flexible perovskite solar cells: Materials, mechanical tolerance and stability",
+                "dc:creator": "Idris K. Popoola",
+                "prism:publicationName": "Renewable and Sustainable Energy Reviews",
+                "prism:volume": "82",
+                "prism:coverDate": "2018-02-28",
+                "prism:startingPage": "3127",
+                "prism:endingPage": "3151",
+                "prism:doi": "10.1016/j.rser.2017.10.028",
+                "openaccess": false,
+                "pii": "S1364032117314120",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Idris K. Popoola"
+                        },
+                        {
+                            "$": "Mohammed A. Gondal"
+                        },
+                        {
+                            "$": "Talal F. Qahtan"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2010-04-10T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0038092X10001209"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0038092X10001209?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.solener.2010.03.016",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0038092X10001209",
+                "dc:title": "Toward integrated PV panels and power electronics using printing technologies",
+                "dc:creator": "Cristinel Ababei",
+                "prism:publicationName": "Solar Energy",
+                "prism:volume": "84",
+                "prism:coverDate": "2010-07-31",
+                "prism:startingPage": "1111",
+                "prism:endingPage": "1123",
+                "prism:doi": "10.1016/j.solener.2010.03.016",
+                "openaccess": false,
+                "pii": "S0038092X10001209",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Cristinel Ababei"
+                        },
+                        {
+                            "$": "Subbaraya Yuvarajan"
+                        },
+                        {
+                            "$": "Douglas L. Schulz"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2016-10-31T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0030402616313031"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0030402616313031?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.ijleo.2016.10.122",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0030402616313031",
+                "dc:title": "Investigation of the influence of different hole-transporting materials on the performance of perovskite solar cells",
+                "dc:creator": "E. Karimi",
+                "prism:publicationName": "Optik",
+                "prism:volume": "130",
+                "prism:coverDate": "2017-02-28",
+                "prism:startingPage": "650",
+                "prism:endingPage": "658",
+                "prism:doi": "10.1016/j.ijleo.2016.10.122",
+                "openaccess": false,
+                "pii": "S0030402616313031",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "E. Karimi"
+                        },
+                        {
+                            "$": "S. M. B. Ghorashi"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2020-03-25T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0038092X20303169"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0038092X20303169?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.solener.2020.03.070",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0038092X20303169",
+                "dc:title": "Numerical analysis of earth-abundant Cu<ce:inf loc=post>2</ce:inf>ZnSn(S<ce:inf loc=post>x</ce:inf>Se<ce:inf loc=post>1-x</ce:inf>)<ce:inf loc=post>4</ce:inf> solar cells based on Spectroscopic Ellipsometry results by using SCAPS-1D",
+                "dc:creator": "Lhoussayne Et-taya",
+                "prism:publicationName": "Solar Energy",
+                "prism:volume": "201",
+                "prism:coverDate": "2020-05-01",
+                "prism:startingPage": "827",
+                "prism:endingPage": "835",
+                "prism:doi": "10.1016/j.solener.2020.03.070",
+                "openaccess": false,
+                "pii": "S0038092X20303169",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Lhoussayne Et-taya"
+                        },
+                        {
+                            "$": "Touria Ouslimane"
+                        },
+                        {
+                            "$": "Abdellah Benami"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2019-06-05T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0927775719304972"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0927775719304972?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.colsurfa.2019.05.075",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0927775719304972",
+                "dc:title": "Effect of molecular packing on modulation of electronic properties of organic donor–acceptor hybrid gels",
+                "dc:creator": "Pousali Chal",
+                "prism:publicationName": "Colloids and Surfaces A: Physicochemical and Engineering Aspects",
+                "prism:volume": "577",
+                "prism:coverDate": "2019-09-20",
+                "prism:startingPage": "480",
+                "prism:endingPage": "492",
+                "prism:doi": "10.1016/j.colsurfa.2019.05.075",
+                "openaccess": false,
+                "pii": "S0927775719304972",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Pousali Chal"
+                        },
+                        {
+                            "$": "Arnab Shit"
+                        },
+                        {
+                            "$": "Davide Levy"
+                        },
+                        {
+                            "$": "Sujoy Das"
+                        },
+                        {
+                            "$": "Arun K. Nandi"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2017-05-24T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1369800117310211"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1369800117310211?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.mssp.2017.04.022",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1369800117310211",
+                "dc:title": "Experimental and simulation study for impact of different halides on the performance of planar perovskite solar cells",
+                "dc:creator": "A. M. Elseman",
+                "prism:publicationName": "Materials Science in Semiconductor Processing",
+                "prism:volume": "66",
+                "prism:coverDate": "2017-08-01",
+                "prism:startingPage": "176",
+                "prism:endingPage": "185",
+                "prism:doi": "10.1016/j.mssp.2017.04.022",
+                "openaccess": false,
+                "pii": "S1369800117310211",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "A. M. Elseman"
+                        },
+                        {
+                            "$": "A. E. Shalan"
+                        },
+                        {
+                            "$": "M. M. Rashad"
+                        },
+                        {
+                            "$": "A. M. Hassan"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2003-02-13T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/0927024894902666"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/0927024894902666?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/0927-0248(94)90266-6",
+                "prism:url": "https://api.elsevier.com/content/article/pii/0927024894902666",
+                "dc:title": "Towards large-area photovoltaic nanocells: experiences learned from smart window technology",
+                "dc:creator": "Carl M. Lampert",
+                "prism:publicationName": "Solar Energy Materials and Solar Cells",
+                "prism:volume": "32",
+                "prism:coverDate": "1994-03-31",
+                "prism:startingPage": "307",
+                "prism:endingPage": "321",
+                "prism:doi": "10.1016/0927-0248(94)90266-6",
+                "openaccess": false,
+                "pii": "0927024894902666",
+                "authors": {
+                    "author": "Carl M. Lampert"
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2012-12-02T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/B9780080416960500437"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/B9780080416960500437?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/B978-0-08-041696-0.50043-7",
+                "prism:url": "https://api.elsevier.com/content/article/pii/B9780080416960500437",
+                "dc:title": "A PORTABLE PHOTOVOLTAIC WATER AERATION SYSTEM",
+                "dc:creator": "B. Young",
+                "prism:publicationName": "1991 Solar World Congress",
+                "prism:coverDate": "1992-12-31",
+                "prism:startingPage": "213",
+                "prism:endingPage": "218",
+                "prism:doi": "10.1016/B978-0-08-041696-0.50043-7",
+                "openaccess": false,
+                "pii": "B9780080416960500437",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "B. Young"
+                        },
+                        {
+                            "$": "B. Marion"
+                        },
+                        {
+                            "$": "J. Harrison"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2017-08-18T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1755008417300686"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1755008417300686?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.ref.2017.07.001",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1755008417300686",
+                "dc:title": "BIPV in Southeast Asian countries – opportunities and challenges",
+                "dc:creator": "Akash Kumar Shukla",
+                "prism:publicationName": "Renewable Energy Focus",
+                "prism:volume": "21",
+                "prism:coverDate": "2017-10-31",
+                "prism:startingPage": "25",
+                "prism:endingPage": "32",
+                "prism:doi": "10.1016/j.ref.2017.07.001",
+                "openaccess": false,
+                "pii": "S1755008417300686",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Akash Kumar Shukla"
+                        },
+                        {
+                            "$": "K. Sudhakar"
+                        },
+                        {
+                            "$": "Prashant Baredar"
+                        },
+                        {
+                            "$": "R. Mamat"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2004-10-26T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0040609004012945"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0040609004012945?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.tsf.2004.08.137",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0040609004012945",
+                "dc:title": "Relation between the thermal activation energy of conduction and the first excited singlet state energy—a case of photo-conducting organic materials",
+                "dc:creator": "H. O. Yadav",
+                "prism:publicationName": "Thin Solid Films",
+                "prism:volume": "477",
+                "prism:coverDate": "2005-04-22",
+                "prism:startingPage": "222",
+                "prism:endingPage": "226",
+                "prism:doi": "10.1016/j.tsf.2004.08.137",
+                "openaccess": false,
+                "pii": "S0040609004012945",
+                "authors": {
+                    "author": "H. O. Yadav"
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2019-11-28T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0011916419317801"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0011916419317801?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.desal.2019.114242",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0011916419317801",
+                "dc:title": "Foldable multiple-energies harvester consisting of a thin ion-exchange membrane prepared by a two-step interfacial polymerization",
+                "dc:creator": "Chul Ho Park",
+                "prism:publicationName": "Desalination",
+                "prism:volume": "476",
+                "prism:coverDate": "2020-02-15",
+                "prism:startingPage": "114242",
+                "prism:doi": "10.1016/j.desal.2019.114242",
+                "openaccess": false,
+                "pii": "S0011916419317801",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Chul Ho Park"
+                        },
+                        {
+                            "$": "Harim Bae"
+                        },
+                        {
+                            "$": "Kyung-Sang Ryu"
+                        },
+                        {
+                            "$": "Yang-Hyun Nam"
+                        },
+                        {
+                            "$": "Byungki Kim"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2017-09-30T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0749603617320864"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0749603617320864?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.spmi.2017.09.048",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0749603617320864",
+                "dc:title": "Numerical simulation and experimental validation of inverted planar perovskite solar cells based on NiO<ce:inf loc=post>x</ce:inf> hole transport layer",
+                "dc:creator": "Xiaoqing Wei",
+                "prism:publicationName": "Superlattices and Microstructures",
+                "prism:volume": "112",
+                "prism:coverDate": "2017-12-31",
+                "prism:startingPage": "383",
+                "prism:endingPage": "393",
+                "prism:doi": "10.1016/j.spmi.2017.09.048",
+                "openaccess": false,
+                "pii": "S0749603617320864",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Xiaoqing Wei"
+                        },
+                        {
+                            "$": "Xian Wang"
+                        },
+                        {
+                            "$": "Hailong Jiang"
+                        },
+                        {
+                            "$": "Yongliang Huang"
+                        },
+                        {
+                            "$": "Zhengxin Liu"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2014-05-24T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0039602814001277"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0039602814001277?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.susc.2014.05.010",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0039602814001277",
+                "dc:title": "Understanding domain symmetry in vanadium oxide phthalocyanine monolayers on Au (111)",
+                "dc:creator": "L. A. Rochford",
+                "prism:publicationName": "Surface Science",
+                "prism:volume": "628",
+                "prism:coverDate": "2014-10-31",
+                "prism:startingPage": "62",
+                "prism:endingPage": "65",
+                "prism:doi": "10.1016/j.susc.2014.05.010",
+                "openaccess": true,
+                "pii": "S0039602814001277",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "L. A. Rochford"
+                        },
+                        {
+                            "$": "I. Hancox"
+                        },
+                        {
+                            "$": "T. S. Jones"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2013-11-15T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/B9780123970213000144"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/B9780123970213000144?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/B978-0-12-397021-3.00014-4",
+                "prism:url": "https://api.elsevier.com/content/article/pii/B9780123970213000144",
+                "dc:title": "Chapter 14: Systems Logic of Devices: Optoelectronics",
+                "dc:creator": "Jeffrey R. S. Brownson",
+                "prism:publicationName": "Solar Energy Conversion Systems",
+                "prism:coverDate": "2014-12-31",
+                "prism:startingPage": "349",
+                "prism:endingPage": "385",
+                "prism:doi": "10.1016/B978-0-12-397021-3.00014-4",
+                "openaccess": false,
+                "pii": "B9780123970213000144",
+                "authors": {
+                    "author": "Jeffrey R. S. Brownson"
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2018-12-29T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0360319918339405"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0360319918339405?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.ijhydene.2018.12.037",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0360319918339405",
+                "dc:title": "A review on photoelectrochemical hydrogen production systems: Challenges and future directions",
+                "dc:creator": "Mahmoud Ahmed",
+                "prism:publicationName": "International Journal of Hydrogen Energy",
+                "prism:volume": "44",
+                "prism:coverDate": "2019-01-28",
+                "prism:startingPage": "2474",
+                "prism:endingPage": "2507",
+                "prism:doi": "10.1016/j.ijhydene.2018.12.037",
+                "openaccess": false,
+                "pii": "S0360319918339405",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Mahmoud Ahmed"
+                        },
+                        {
+                            "$": "Ibrahim Dincer"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2012-12-02T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/B9780080416960500449"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/B9780080416960500449?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/B978-0-08-041696-0.50044-9",
+                "prism:url": "https://api.elsevier.com/content/article/pii/B9780080416960500449",
+                "dc:title": "APPLICATIONS OF PHOTOVOLTAICS IN THE AUSTRALIAN OUTBACK",
+                "dc:creator": "A. B. Pulsford",
+                "prism:publicationName": "1991 Solar World Congress",
+                "prism:coverDate": "1992-12-31",
+                "prism:startingPage": "219",
+                "prism:endingPage": "224",
+                "prism:doi": "10.1016/B978-0-08-041696-0.50044-9",
+                "openaccess": false,
+                "pii": "B9780080416960500449",
+                "authors": {
+                    "author": "A. B. Pulsford"
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2015-08-04T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1364032115006826"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1364032115006826?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.rser.2015.07.035",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1364032115006826",
+                "dc:title": "A review of concentrator silicon solar cells",
+                "dc:creator": "Yupeng Xing",
+                "prism:publicationName": "Renewable and Sustainable Energy Reviews",
+                "prism:volume": "51",
+                "prism:coverDate": "2015-11-30",
+                "prism:startingPage": "1697",
+                "prism:endingPage": "1708",
+                "prism:doi": "10.1016/j.rser.2015.07.035",
+                "openaccess": false,
+                "pii": "S1364032115006826",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Yupeng Xing"
+                        },
+                        {
+                            "$": "Peide Han"
+                        },
+                        {
+                            "$": "Shuai Wang"
+                        },
+                        {
+                            "$": "Peng Liang"
+                        },
+                        {
+                            "$": "Yanhong Mi"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2016-12-23T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S2405896316327227"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S2405896316327227?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.ifacol.2016.12.084",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S2405896316327227",
+                "dc:title": "Energy-independent concept of a house using an electric vehicle traction",
+                "dc:creator": "Kristyna Friedrischkova",
+                "prism:publicationName": "IFAC-PapersOnLine",
+                "prism:volume": "49",
+                "prism:coverDate": "2016-12-31",
+                "prism:startingPage": "535",
+                "prism:endingPage": "540",
+                "prism:doi": "10.1016/j.ifacol.2016.12.084",
+                "openaccess": false,
+                "pii": "S2405896316327227",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Kristyna Friedrischkova"
+                        },
+                        {
+                            "$": "David Vala"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2018-09-07T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0079642518300902"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0079642518300902?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.pmatsci.2018.09.001",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0079642518300902",
+                "dc:title": "Current trends, challenges, and perspectives of anti-fogging technology: Surface and material design, fabrication strategies, and beyond",
+                "dc:creator": "Iván Rodríguez Durán",
+                "prism:publicationName": "Progress in Materials Science",
+                "prism:volume": "99",
+                "prism:coverDate": "2019-01-31",
+                "prism:startingPage": "106",
+                "prism:endingPage": "186",
+                "prism:doi": "10.1016/j.pmatsci.2018.09.001",
+                "openaccess": false,
+                "pii": "S0079642518300902",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Iván Rodríguez Durán"
+                        },
+                        {
+                            "$": "Gaétan Laroche"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2018-05-10T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0167577X18307882"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0167577X18307882?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.matlet.2018.05.040",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0167577X18307882",
+                "dc:title": "Characterization of novel nitrogen-less derived 2D hybrid perovskite of C<ce:inf loc=post>6</ce:inf>H<ce:inf loc=post>8</ce:inf>N<ce:inf loc=post>2</ce:inf>PbBr<ce:inf loc=post>3</ce:inf> as a light-harvesting material for perovskite solar cell application",
+                "dc:creator": "Azliana Ramli",
+                "prism:publicationName": "Materials Letters",
+                "prism:volume": "227",
+                "prism:coverDate": "2018-09-15",
+                "prism:startingPage": "62",
+                "prism:endingPage": "65",
+                "prism:doi": "10.1016/j.matlet.2018.05.040",
+                "openaccess": false,
+                "pii": "S0167577X18307882",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Azliana Ramli"
+                        },
+                        {
+                            "$": "Mohd Nazari Abu Bakar"
+                        },
+                        {
+                            "$": "Nafisah Osman"
+                        },
+                        {
+                            "$": "Wan Izhan Nawawi Wan Ismail"
+                        },
+                        {
+                            "$": "Suhaila Sepeai"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2019-02-28T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0169433219305872"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0169433219305872?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.apsusc.2019.02.230",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0169433219305872",
+                "dc:title": "Second harmonic generation (SHG) in pentacene thin films grown by matrix assisted pulsed laser evaporation (MAPLE)",
+                "dc:creator": "Iulian Ionita",
+                "prism:publicationName": "Applied Surface Science",
+                "prism:volume": "480",
+                "prism:coverDate": "2019-06-30",
+                "prism:startingPage": "212",
+                "prism:endingPage": "218",
+                "prism:doi": "10.1016/j.apsusc.2019.02.230",
+                "openaccess": false,
+                "pii": "S0169433219305872",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Iulian Ionita"
+                        },
+                        {
+                            "$": "Adrian Bercea"
+                        },
+                        {
+                            "$": "Simona Brajnicov"
+                        },
+                        {
+                            "$": "Andreea Matei"
+                        },
+                        {
+                            "$": "Catalin Constantinescu"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2016-03-24T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1364032116002392"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1364032116002392?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.rser.2016.03.004",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1364032116002392",
+                "dc:title": "Silicon back contact solar cell configuration: A pathway towards higher efficiency",
+                "dc:creator": "M. K. Mat Desa",
+                "prism:publicationName": "Renewable and Sustainable Energy Reviews",
+                "prism:volume": "60",
+                "prism:coverDate": "2016-07-31",
+                "prism:startingPage": "1516",
+                "prism:endingPage": "1532",
+                "prism:doi": "10.1016/j.rser.2016.03.004",
+                "openaccess": false,
+                "pii": "S1364032116002392",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "M. K. Mat Desa"
+                        },
+                        {
+                            "$": "S. Sapeai"
+                        },
+                        {
+                            "$": "A. W. Azhari"
+                        },
+                        {
+                            "$": "K. Sopian"
+                        },
+                        {
+                            "$": "S. H. Zaidi"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2018-05-25T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/B9780128114797000051"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/B9780128114797000051?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/B978-0-12-811479-7.00005-1",
+                "prism:url": "https://api.elsevier.com/content/article/pii/B9780128114797000051",
+                "dc:title": "5: Sustainable Solar Energy Collection and Storage for Rural Sub-Saharan Africa",
+                "dc:creator": "Rhys G. Charles",
+                "prism:publicationName": "A Comprehensive Guide to Solar Energy Systems",
+                "prism:coverDate": "2018-12-31",
+                "prism:startingPage": "81",
+                "prism:endingPage": "107",
+                "prism:doi": "10.1016/B978-0-12-811479-7.00005-1",
+                "openaccess": false,
+                "pii": "B9780128114797000051",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Rhys G. Charles"
+                        },
+                        {
+                            "$": "Matthew L. Davies"
+                        },
+                        {
+                            "$": "Peter Douglas"
+                        },
+                        {
+                            "$": "Ingrid L. Hallin"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2015-06-27T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0038092X15003011"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0038092X15003011?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.solener.2015.05.041",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0038092X15003011",
+                "dc:title": "Numerical analysis of degradation kinetics in CdTe thin films",
+                "dc:creator": "Nima E. Gorji",
+                "prism:publicationName": "Solar Energy",
+                "prism:volume": "118",
+                "prism:coverDate": "2015-08-31",
+                "prism:startingPage": "611",
+                "prism:endingPage": "621",
+                "prism:doi": "10.1016/j.solener.2015.05.041",
+                "openaccess": false,
+                "pii": "S0038092X15003011",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Nima E. Gorji"
+                        },
+                        {
+                            "$": "Ugo Reggiani"
+                        },
+                        {
+                            "$": "Leonardo Sandrolini"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2007-01-30T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0022369707000364"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0022369707000364?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.jpcs.2007.01.023",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0022369707000364",
+                "dc:title": "Determination of electrical and solar cell parameters of FTO/CuPc/Al Schottky devices",
+                "dc:creator": "K. R. Rajesh",
+                "prism:publicationName": "Journal of Physics and Chemistry of Solids",
+                "prism:volume": "68",
+                "prism:coverDate": "2007-04-30",
+                "prism:startingPage": "556",
+                "prism:endingPage": "560",
+                "prism:doi": "10.1016/j.jpcs.2007.01.023",
+                "openaccess": false,
+                "pii": "S0022369707000364",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "K. R. Rajesh"
+                        },
+                        {
+                            "$": "Shaji Varghese"
+                        },
+                        {
+                            "$": "C. S. Menon"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2017-09-22T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0196890417308695"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0196890417308695?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.enconman.2017.09.045",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0196890417308695",
+                "dc:title": "STEP chemistry: A fundamental insight into solar thermal electrochemical process",
+                "dc:creator": "Baohui Wang",
+                "prism:publicationName": "Energy Conversion and Management",
+                "prism:volume": "152",
+                "prism:coverDate": "2017-11-15",
+                "prism:startingPage": "99",
+                "prism:endingPage": "109",
+                "prism:doi": "10.1016/j.enconman.2017.09.045",
+                "openaccess": false,
+                "pii": "S0196890417308695",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Baohui Wang"
+                        },
+                        {
+                            "$": "Di Gu"
+                        },
+                        {
+                            "$": "Jing Dong"
+                        },
+                        {
+                            "$": "Dandan Yuan"
+                        },
+                        {
+                            "$": "Lingyue Zhu"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2019-08-27T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0925346719305683"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0925346719305683?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.optmat.2019.109348",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0925346719305683",
+                "dc:title": "Optoelectronic properties of hybrid diodes based on vanadyl- phthalocyanine and zinc oxide nanorods thin films",
+                "dc:creator": "M. Raveendra Kiran",
+                "prism:publicationName": "Optical Materials",
+                "prism:volume": "96",
+                "prism:coverDate": "2019-10-31",
+                "prism:startingPage": "109348",
+                "prism:doi": "10.1016/j.optmat.2019.109348",
+                "openaccess": false,
+                "pii": "S0925346719305683",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "M. Raveendra Kiran"
+                        },
+                        {
+                            "$": "Hidayath Ulla"
+                        },
+                        {
+                            "$": "M. N. Satyanarayan"
+                        },
+                        {
+                            "$": "G. Umesh"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2007-09-02T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/B9781856173902500192"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/B9781856173902500192?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/B978-185617390-2/50019-2",
+                "prism:url": "https://api.elsevier.com/content/article/pii/B9781856173902500192",
+                "dc:title": "IIe-1: Photoelectrochemical Solar Cells",
+                "dc:creator": "A. J. Mcevoy",
+                "prism:publicationName": "Practical Handbook of Photovoltaics",
+                "prism:coverDate": "2003-12-31",
+                "prism:startingPage": "459",
+                "prism:endingPage": "481",
+                "prism:doi": "10.1016/B978-185617390-2/50019-2",
+                "openaccess": false,
+                "pii": "B9781856173902500192",
+                "authors": {
+                    "author": "A. J. Mcevoy"
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2013-12-06T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1369800113003594"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1369800113003594?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.mssp.2013.11.024",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1369800113003594",
+                "dc:title": "A study of the i/p interface for flexible n–i–p a-Si:H thin film solar cells",
+                "dc:creator": "Jin Wang",
+                "prism:publicationName": "Materials Science in Semiconductor Processing",
+                "prism:volume": "25",
+                "prism:coverDate": "2014-09-30",
+                "prism:startingPage": "186",
+                "prism:endingPage": "189",
+                "prism:doi": "10.1016/j.mssp.2013.11.024",
+                "openaccess": false,
+                "pii": "S1369800113003594",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Jin Wang"
+                        },
+                        {
+                            "$": "Ke Tao"
+                        },
+                        {
+                            "$": "Hongkun Cai"
+                        },
+                        {
+                            "$": "Dexian Zhang"
+                        },
+                        {
+                            "$": "Guofeng Li"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2014-11-17T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0378775314018655"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0378775314018655?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.jpowsour.2014.11.038",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0378775314018655",
+                "dc:title": "Highly effective nickel sulfide counter electrode catalyst prepared by optimal hydrothermal treatment for quantum dot-sensitized solar cells",
+                "dc:creator": "Chandu V. V. M. Gopi",
+                "prism:publicationName": "Journal of Power Sources",
+                "prism:volume": "275",
+                "prism:coverDate": "2015-02-01",
+                "prism:startingPage": "547",
+                "prism:endingPage": "556",
+                "prism:doi": "10.1016/j.jpowsour.2014.11.038",
+                "openaccess": false,
+                "pii": "S0378775314018655",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Chandu V. V. M. Gopi"
+                        },
+                        {
+                            "$": "S. Srinivasa Rao"
+                        },
+                        {
+                            "$": "Soo-Kyoung Kim"
+                        },
+                        {
+                            "$": "Dinah Punnoose"
+                        },
+                        {
+                            "$": "Hee-Je Kim"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2020-03-25T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1566119920301233"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1566119920301233?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.orgel.2020.105737",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1566119920301233",
+                "dc:title": "Efficient and stable mesoporous perovskite solar cells using p-type poly (9-vinylcarbazole) modified the interface of perovskite/mesoporous TiO<ce:inf loc=post>2</ce:inf> layers",
+                "dc:creator": "Jiaji Duan",
+                "prism:publicationName": "Organic Electronics",
+                "prism:coverDate": "2020-03-25",
+                "prism:startingPage": "105737",
+                "prism:doi": "10.1016/j.orgel.2020.105737",
+                "openaccess": false,
+                "pii": "S1566119920301233",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Jiaji Duan"
+                        },
+                        {
+                            "$": "Yuning Liu"
+                        },
+                        {
+                            "$": "Xiaohong Chen"
+                        },
+                        {
+                            "$": "Sumei Huang"
+                        },
+                        {
+                            "$": "Zhuo Sun"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2007-09-02T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/B9781856174572500160"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/B9781856174572500160?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/B978-185617457-2/50016-0",
+                "prism:url": "https://api.elsevier.com/content/article/pii/B9781856174572500160",
+                "dc:title": "IIe-1: Photoelectrochemical solar cells",
+                "dc:creator": "A. J. McEvoy",
+                "prism:publicationName": "Solar Cells",
+                "prism:coverDate": "2005-12-31",
+                "prism:startingPage": "395",
+                "prism:endingPage": "417",
+                "prism:doi": "10.1016/B978-185617457-2/50016-0",
+                "openaccess": false,
+                "pii": "B9781856174572500160",
+                "authors": {
+                    "author": "A. J. McEvoy"
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2020-01-06T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0038092X19312642"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0038092X19312642?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.solener.2019.12.050",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0038092X19312642",
+                "dc:title": "Numerical simulation of heat distribution in RGO-contacted perovskite solar cells using COMSOL",
+                "dc:creator": "Soma Zandi",
+                "prism:publicationName": "Solar Energy",
+                "prism:volume": "197",
+                "prism:coverDate": "2020-02-29",
+                "prism:startingPage": "105",
+                "prism:endingPage": "110",
+                "prism:doi": "10.1016/j.solener.2019.12.050",
+                "openaccess": false,
+                "pii": "S0038092X19312642",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Soma Zandi"
+                        },
+                        {
+                            "$": "Prateek Saxena"
+                        },
+                        {
+                            "$": "Nima E. Gorji"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2018-08-08T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0142061517325231"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0142061517325231?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.ijepes.2018.07.051",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0142061517325231",
+                "dc:title": "Technical design aspects of harbour area grid for shore to ship power: State of the art and future solutions",
+                "dc:creator": "Jagdesh Kumar",
+                "prism:publicationName": "International Journal of Electrical Power & Energy Systems",
+                "prism:volume": "104",
+                "prism:coverDate": "2019-01-31",
+                "prism:startingPage": "840",
+                "prism:endingPage": "852",
+                "prism:doi": "10.1016/j.ijepes.2018.07.051",
+                "openaccess": false,
+                "pii": "S0142061517325231",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Jagdesh Kumar"
+                        },
+                        {
+                            "$": "Lauri Kumpulainen"
+                        },
+                        {
+                            "$": "Kimmo Kauhaniemi"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2012-02-01T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0022309312000531"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0022309312000531?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.jnoncrysol.2012.01.038",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0022309312000531",
+                "dc:title": "Low concentrator hetero-junction microcrystalline silicon solar cells",
+                "dc:creator": "Shunsuke Kasashima",
+                "prism:publicationName": "Journal of Non-Crystalline Solids",
+                "prism:volume": "358",
+                "prism:coverDate": "2012-09-01",
+                "prism:startingPage": "2260",
+                "prism:endingPage": "2263",
+                "prism:doi": "10.1016/j.jnoncrysol.2012.01.038",
+                "openaccess": false,
+                "pii": "S0022309312000531",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Shunsuke Kasashima"
+                        },
+                        {
+                            "$": "Taweewat Krajangsang"
+                        },
+                        {
+                            "$": "Aswin Hongsingthong"
+                        },
+                        {
+                            "$": "Hideaki Fujioka"
+                        },
+                        {
+                            "$": "Makoto Konagai"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2015-09-10T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0038092X1500465X"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0038092X1500465X?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.solener.2015.08.029",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0038092X1500465X",
+                "dc:title": "Effect of top-cell CGS thickness on the performance of CGS/CIGS tandem solar cell",
+                "dc:creator": "M. Elbar",
+                "prism:publicationName": "Solar Energy",
+                "prism:volume": "122",
+                "prism:coverDate": "2015-12-31",
+                "prism:startingPage": "104",
+                "prism:endingPage": "112",
+                "prism:doi": "10.1016/j.solener.2015.08.029",
+                "openaccess": false,
+                "pii": "S0038092X1500465X",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "M. Elbar"
+                        },
+                        {
+                            "$": "S. Tobbeche"
+                        },
+                        {
+                            "$": "A. Merazga"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2019-09-16T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0022286019311627"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0022286019311627?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.molstruc.2019.127062",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0022286019311627",
+                "dc:title": "Photoresponsivity and photodetectivity properties of copper complex-based photodiode",
+                "dc:creator": "Osman Dayan",
+                "prism:publicationName": "Journal of Molecular Structure",
+                "prism:volume": "1200",
+                "prism:coverDate": "2020-01-15",
+                "prism:startingPage": "127062",
+                "prism:doi": "10.1016/j.molstruc.2019.127062",
+                "openaccess": false,
+                "pii": "S0022286019311627",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Osman Dayan"
+                        },
+                        {
+                            "$": "Arife Gencer Imer"
+                        },
+                        {
+                            "$": "Abdullah G. Al-Sehemi"
+                        },
+                        {
+                            "$": "Namık Özdemir"
+                        },
+                        {
+                            "$": "F. Yakuphanoglu"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2020-01-24T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/B9780128167779099925"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/B9780128167779099925?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/B978-0-12-816777-9.09992-5",
+                "prism:url": "https://api.elsevier.com/content/article/pii/B9780128167779099925",
+                "dc:title": "Index",
+                "prism:publicationName": "Current Trends and Future Developments on (Bio-) Membranes",
+                "prism:coverDate": "2020-12-31",
+                "prism:startingPage": "337",
+                "prism:endingPage": "348",
+                "prism:doi": "10.1016/B978-0-12-816777-9.09992-5",
+                "openaccess": false,
+                "pii": "B9780128167779099925",
+                "authors": null
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2020-02-14T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/B9780128168653200012"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/B9780128168653200012?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/B978-0-12-816865-3.20001-2",
+                "prism:url": "https://api.elsevier.com/content/article/pii/B9780128168653200012",
+                "dc:title": "Index",
+                "prism:publicationName": "Advances in Nanostructured Materials and Nanopatterning Technologies",
+                "prism:coverDate": "2020-12-31",
+                "prism:startingPage": "439",
+                "prism:endingPage": "455",
+                "prism:doi": "10.1016/B978-0-12-816865-3.20001-2",
+                "openaccess": false,
+                "pii": "B9780128168653200012",
+                "authors": null
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2003-11-11T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1631074803001437"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1631074803001437?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.crci.2003.06.001",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1631074803001437",
+                "dc:title": "Design of functional nano-structured materials through the use of controlled hybrid organic–inorganic interfaces",
+                "dc:creator": "Clément Sanchez",
+                "prism:publicationName": "Comptes Rendus Chimie",
+                "prism:volume": "6",
+                "prism:coverDate": "2003-08-31",
+                "prism:startingPage": "1131",
+                "prism:endingPage": "1151",
+                "prism:doi": "10.1016/j.crci.2003.06.001",
+                "openaccess": true,
+                "pii": "S1631074803001437",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Clément Sanchez"
+                        },
+                        {
+                            "$": "Galo J. De A. A Soler-Illia"
+                        },
+                        {
+                            "$": "François Ribot"
+                        },
+                        {
+                            "$": "David Grosso"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2013-08-03T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S037877531301313X"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S037877531301313X?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.jpowsour.2013.07.104",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S037877531301313X",
+                "dc:title": "Solid state dye solar cell modules",
+                "dc:creator": "F. Matteocci",
+                "prism:publicationName": "Journal of Power Sources",
+                "prism:volume": "246",
+                "prism:coverDate": "2014-01-15",
+                "prism:startingPage": "361",
+                "prism:endingPage": "364",
+                "prism:doi": "10.1016/j.jpowsour.2013.07.104",
+                "openaccess": false,
+                "pii": "S037877531301313X",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "F. Matteocci"
+                        },
+                        {
+                            "$": "S. Casaluci"
+                        },
+                        {
+                            "$": "S. Razza"
+                        },
+                        {
+                            "$": "A. Guidobaldi"
+                        },
+                        {
+                            "$": "A. Di Carlo"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2016-05-03T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1566119916301835"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1566119916301835?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.orgel.2016.04.037",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1566119916301835",
+                "dc:title": "Small-signal characteristics of fully-printed high-current flexible all-polymer three-layer-dielectric transistors",
+                "dc:creator": "Bahman Kheradmand-Boroujeni",
+                "prism:publicationName": "Organic Electronics",
+                "prism:volume": "34",
+                "prism:coverDate": "2016-07-31",
+                "prism:startingPage": "267",
+                "prism:endingPage": "275",
+                "prism:doi": "10.1016/j.orgel.2016.04.037",
+                "openaccess": false,
+                "pii": "S1566119916301835",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Bahman Kheradmand-Boroujeni"
+                        },
+                        {
+                            "$": "Georg C. Schmidt"
+                        },
+                        {
+                            "$": "Daniel Höft"
+                        },
+                        {
+                            "$": "Katherina Haase"
+                        },
+                        {
+                            "$": "Frank Ellinger"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2018-09-19T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0022369718314872"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0022369718314872?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.jpcs.2018.09.019",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0022369718314872",
+                "dc:title": "Metal nano-composite as charge transport co-buffer layer in perovskite based solar cell",
+                "dc:creator": "Patrick Tonui",
+                "prism:publicationName": "Journal of Physics and Chemistry of Solids",
+                "prism:volume": "126",
+                "prism:coverDate": "2019-03-31",
+                "prism:startingPage": "124",
+                "prism:endingPage": "130",
+                "prism:doi": "10.1016/j.jpcs.2018.09.019",
+                "openaccess": false,
+                "pii": "S0022369718314872",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Patrick Tonui"
+                        },
+                        {
+                            "$": "Elhadi Abdalla A. Arbab"
+                        },
+                        {
+                            "$": "Genene Tessema Mola"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2015-03-30T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0040609015002680"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0040609015002680?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.tsf.2015.03.052",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0040609015002680",
+                "dc:title": "Highly efficient betanin dye based ZnO and ZnO/Au Schottky barrier solar cell",
+                "dc:creator": "Aparna Thankappan",
+                "prism:publicationName": "Thin Solid Films",
+                "prism:volume": "583",
+                "prism:coverDate": "2015-05-29",
+                "prism:startingPage": "102",
+                "prism:endingPage": "107",
+                "prism:doi": "10.1016/j.tsf.2015.03.052",
+                "openaccess": false,
+                "pii": "S0040609015002680",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Aparna Thankappan"
+                        },
+                        {
+                            "$": "S. Divya"
+                        },
+                        {
+                            "$": "Anju K. Augustine"
+                        },
+                        {
+                            "$": "C. P. Girijavallaban"
+                        },
+                        {
+                            "$": "V. P. N. Nampoori"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2018-04-05T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0749603617330306"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0749603617330306?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.spmi.2018.03.079",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0749603617330306",
+                "dc:title": "Potential application of CuSbS<ce:inf loc=post>2</ce:inf> as the hole transport material in perovskite solar cell: A simulation study",
+                "dc:creator": "R. Teimouri",
+                "prism:publicationName": "Superlattices and Microstructures",
+                "prism:volume": "118",
+                "prism:coverDate": "2018-06-30",
+                "prism:startingPage": "116",
+                "prism:endingPage": "122",
+                "prism:doi": "10.1016/j.spmi.2018.03.079",
+                "openaccess": false,
+                "pii": "S0749603617330306",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "R. Teimouri"
+                        },
+                        {
+                            "$": "R. Mohammadpour"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2015-12-02T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S027753871500724X"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S027753871500724X?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.poly.2015.11.038",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S027753871500724X",
+                "dc:title": "Probing structural adaptability in templated vanadium selenites",
+                "dc:creator": "Philip D. F. Adler",
+                "prism:publicationName": "Polyhedron",
+                "prism:volume": "114",
+                "prism:coverDate": "2016-08-16",
+                "prism:startingPage": "184",
+                "prism:endingPage": "193",
+                "prism:doi": "10.1016/j.poly.2015.11.038",
+                "openaccess": false,
+                "pii": "S027753871500724X",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Philip D. F. Adler"
+                        },
+                        {
+                            "$": "Rosalind Xu"
+                        },
+                        {
+                            "$": "Jacob H. Olshansky"
+                        },
+                        {
+                            "$": "Matthew D. Smith"
+                        },
+                        {
+                            "$": "Alexander J. Norquist"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2019-08-22T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S245192941930333X"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S245192941930333X?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.chempr.2019.07.024",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S245192941930333X",
+                "dc:title": "Seven-Layered 2D Hybrid Lead Iodide Perovskites",
+                "dc:creator": "Lingling Mao",
+                "prism:publicationName": "Chem",
+                "prism:volume": "5",
+                "prism:coverDate": "2019-10-10",
+                "prism:startingPage": "2593",
+                "prism:endingPage": "2604",
+                "prism:doi": "10.1016/j.chempr.2019.07.024",
+                "openaccess": false,
+                "pii": "S245192941930333X",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Lingling Mao"
+                        },
+                        {
+                            "$": "Rhys M. Kennard"
+                        },
+                        {
+                            "$": "Boubacar Traore"
+                        },
+                        {
+                            "$": "Weijun Ke"
+                        },
+                        {
+                            "$": "Mercouri G. Kanatzidis"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2009-12-22T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1369702109702913"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1369702109702913?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/S1369-7021(09)70291-3",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1369702109702913",
+                "dc:title": "Every silver-lined solar cell: Energy",
+                "dc:creator": "David Bradley",
+                "prism:publicationName": "Materials Today",
+                "prism:volume": "12",
+                "prism:coverDate": "2009-11-30",
+                "prism:startingPage": "10",
+                "prism:doi": "10.1016/S1369-7021(09)70291-3",
+                "openaccess": true,
+                "pii": "S1369702109702913",
+                "authors": {
+                    "author": "David Bradley"
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2019-11-01T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/B9783446462069500096"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/B9783446462069500096?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.3139/9783446461727.008",
+                "prism:url": "https://api.elsevier.com/content/article/pii/B9783446462069500096",
+                "dc:title": "8: Photonic Devices and High-Speed Amplifiers",
+                "dc:creator": "Peter Adam Hoeher",
+                "prism:publicationName": "Visible Light Communications",
+                "prism:coverDate": "2019-12-31",
+                "prism:startingPage": "183",
+                "prism:endingPage": "206",
+                "prism:doi": "10.3139/9783446461727.008",
+                "openaccess": false,
+                "pii": "B9783446462069500096",
+                "authors": {
+                    "author": "Peter Adam Hoeher"
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2013-10-11T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0306261913007770"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0306261913007770?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.apenergy.2013.09.030",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0306261913007770",
+                "dc:title": "Sustainable energy systems for a remote island community",
+                "dc:creator": "K. J. Chua",
+                "prism:publicationName": "Applied Energy",
+                "prism:volume": "113",
+                "prism:coverDate": "2014-01-31",
+                "prism:startingPage": "1752",
+                "prism:endingPage": "1763",
+                "prism:doi": "10.1016/j.apenergy.2013.09.030",
+                "openaccess": false,
+                "pii": "S0306261913007770",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "K. J. Chua"
+                        },
+                        {
+                            "$": "W. M. Yang"
+                        },
+                        {
+                            "$": "S. S. Er"
+                        },
+                        {
+                            "$": "C. A. Ho"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2018-04-06T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0927024818301296"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0927024818301296?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.solmat.2018.03.026",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0927024818301296",
+                "dc:title": "NiS/rGO nanohybrid: An excellent counter electrode for dye sensitized solar cell",
+                "dc:creator": "A. Sarkar",
+                "prism:publicationName": "Solar Energy Materials and Solar Cells",
+                "prism:volume": "182",
+                "prism:coverDate": "2018-08-01",
+                "prism:startingPage": "314",
+                "prism:endingPage": "320",
+                "prism:doi": "10.1016/j.solmat.2018.03.026",
+                "openaccess": false,
+                "pii": "S0927024818301296",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "A. Sarkar"
+                        },
+                        {
+                            "$": "Amit K. Chakraborty"
+                        },
+                        {
+                            "$": "S. Bera"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2019-11-01T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/B9780081027622000070"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/B9780081027622000070?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/B978-0-08-102762-2.00007-0",
+                "prism:url": "https://api.elsevier.com/content/article/pii/B9780081027622000070",
+                "dc:title": "Chapter Seven: Simulations of conventional and augmented types of solar cells",
+                "dc:creator": "Alexander Quandt",
+                "prism:publicationName": "Solar Cells and Light Management",
+                "prism:coverDate": "2020-12-31",
+                "prism:startingPage": "249",
+                "prism:endingPage": "276",
+                "prism:doi": "10.1016/B978-0-08-102762-2.00007-0",
+                "openaccess": false,
+                "pii": "B9780081027622000070",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Alexander Quandt"
+                        },
+                        {
+                            "$": "Itumeleng Mokgosi"
+                        },
+                        {
+                            "$": "Robert Warmbier"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2019-05-16T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S2451929419301755"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S2451929419301755?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.chempr.2019.04.017",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S2451929419301755",
+                "dc:title": "High-Performance UV Enhancer Molecules Coupled with Photosynthetic Proteins for Ultra-Low-Intensity UV Detection",
+                "dc:creator": "Lakshmi Suresh",
+                "prism:publicationName": "Chem",
+                "prism:volume": "5",
+                "prism:coverDate": "2019-07-11",
+                "prism:startingPage": "1847",
+                "prism:endingPage": "1860",
+                "prism:doi": "10.1016/j.chempr.2019.04.017",
+                "openaccess": false,
+                "pii": "S2451929419301755",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Lakshmi Suresh"
+                        },
+                        {
+                            "$": "Jayraj V. Vaghasiya"
+                        },
+                        {
+                            "$": "Dilip Krishna Nandakumar"
+                        },
+                        {
+                            "$": "Tingfeng Wu"
+                        },
+                        {
+                            "$": "Swee Ching Tan"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2010-05-14T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/B9780123747747000182"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/B9780123747747000182?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/B978-0-12-374774-7.00018-2",
+                "prism:url": "https://api.elsevier.com/content/article/pii/B9780123747747000182",
+                "dc:title": "Preface",
+                "prism:publicationName": "Solar Cell Device Physics",
+                "prism:coverDate": "2010-12-31",
+                "prism:startingPage": "xi",
+                "prism:endingPage": "xii",
+                "prism:doi": "10.1016/B978-0-12-374774-7.00018-2",
+                "openaccess": false,
+                "pii": "B9780123747747000182",
+                "authors": null
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2003-05-06T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/0079678675900072"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/0079678675900072?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/0079-6786(75)90007-2",
+                "prism:url": "https://api.elsevier.com/content/article/pii/0079678675900072",
+                "dc:title": "Direct conversion of solar energy through photovoltaic cells",
+                "dc:creator": "A. Rothwarf",
+                "prism:publicationName": "Progress in Solid State Chemistry",
+                "prism:volume": "10",
+                "prism:coverDate": "1975-12-31",
+                "prism:startingPage": "71",
+                "prism:endingPage": "102",
+                "prism:doi": "10.1016/0079-6786(75)90007-2",
+                "openaccess": false,
+                "pii": "0079678675900072",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "A. Rothwarf"
+                        },
+                        {
+                            "$": "K. W. Böer"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2014-10-22T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0010854514002793"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0010854514002793?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.ccr.2014.10.006",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0010854514002793",
+                "dc:title": "Coordination polymers for energy transfer: Preparations, properties, sensing applications, and perspectives",
+                "dc:creator": "Xuanjun Zhang",
+                "prism:publicationName": "Coordination Chemistry Reviews",
+                "prism:volume": "284",
+                "prism:coverDate": "2015-02-01",
+                "prism:startingPage": "206",
+                "prism:endingPage": "235",
+                "prism:doi": "10.1016/j.ccr.2014.10.006",
+                "openaccess": false,
+                "pii": "S0010854514002793",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Xuanjun Zhang"
+                        },
+                        {
+                            "$": "Wenjing Wang"
+                        },
+                        {
+                            "$": "Zhangjun Hu"
+                        },
+                        {
+                            "$": "Guannan Wang"
+                        },
+                        {
+                            "$": "Kajsa Uvdal"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2016-02-27T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1364032116002148"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1364032116002148?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.rser.2015.09.098",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1364032116002148",
+                "dc:title": "Role of smart grid in renewable energy: An overview",
+                "dc:creator": "M. S. Hossain",
+                "prism:publicationName": "Renewable and Sustainable Energy Reviews",
+                "prism:volume": "60",
+                "prism:coverDate": "2016-07-31",
+                "prism:startingPage": "1168",
+                "prism:endingPage": "1184",
+                "prism:doi": "10.1016/j.rser.2015.09.098",
+                "openaccess": false,
+                "pii": "S1364032116002148",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "M. S. Hossain"
+                        },
+                        {
+                            "$": "N. A. Madlool"
+                        },
+                        {
+                            "$": "N. A. Rahim"
+                        },
+                        {
+                            "$": "J. Selvaraj"
+                        },
+                        {
+                            "$": "Abdul Faheem Khan"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2019-03-08T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/B9780128145418000252"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/B9780128145418000252?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/B978-0-12-814541-8.00025-2",
+                "prism:url": "https://api.elsevier.com/content/article/pii/B9780128145418000252",
+                "dc:title": "Index",
+                "prism:publicationName": "Dye-Sensitized Solar Cells",
+                "prism:coverDate": "2019-12-31",
+                "prism:startingPage": "437",
+                "prism:endingPage": "454",
+                "prism:doi": "10.1016/B978-0-12-814541-8.00025-2",
+                "openaccess": false,
+                "pii": "B9780128145418000252",
+                "authors": null
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2020-03-13T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/B9780128035818118569"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/B9780128035818118569?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/B978-0-12-803581-8.11856-9",
+                "prism:url": "https://api.elsevier.com/content/article/pii/B9780128035818118569",
+                "dc:title": "Polymer-Ceramic Nanocomposites and Converging Technologies",
+                "dc:creator": "Vladimir B. Pavlović",
+                "prism:publicationName": "Reference Module in Materials Science and Materials Engineering",
+                "prism:coverDate": "2021-12-31",
+                "prism:doi": "10.1016/B978-0-12-803581-8.11856-9",
+                "openaccess": false,
+                "pii": "B9780128035818118569",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Vladimir B. Pavlović"
+                        },
+                        {
+                            "$": "Vera P. Pavlović"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2020-03-29T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1002072120302222"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1002072120302222?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.jre.2020.03.009",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1002072120302222",
+                "dc:title": "High value-added fluorescence upconversion agents-assisted nano-semiconductors for efficient wide spectral response photocatalysis: exerting energy transfer effect and applications",
+                "dc:creator": "Kailian Zhang",
+                "prism:publicationName": "Journal of Rare Earths",
+                "prism:coverDate": "2020-03-29",
+                "prism:doi": "10.1016/j.jre.2020.03.009",
+                "openaccess": false,
+                "pii": "S1002072120302222",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Kailian Zhang"
+                        },
+                        {
+                            "$": "Man Zhou"
+                        },
+                        {
+                            "$": "Changlin Yu"
+                        },
+                        {
+                            "$": "Xiaoxiao Li"
+                        },
+                        {
+                            "$": "Lihua Zhu"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2016-06-25T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0925400516310024"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0925400516310024?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.snb.2016.06.140",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0925400516310024",
+                "dc:title": "A novel sensitive and selective nanocomposite sensor for Doxorubicin based on Graphene Oxide and fluorescent [2]Rotaxane",
+                "dc:creator": "Xiaofeng Bao",
+                "prism:publicationName": "Sensors and Actuators B: Chemical",
+                "prism:volume": "237",
+                "prism:coverDate": "2016-12-31",
+                "prism:startingPage": "380",
+                "prism:endingPage": "386",
+                "prism:doi": "10.1016/j.snb.2016.06.140",
+                "openaccess": false,
+                "pii": "S0925400516310024",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Xiaofeng Bao"
+                        },
+                        {
+                            "$": "Jiaxin Shi"
+                        },
+                        {
+                            "$": "Jing Zhu"
+                        },
+                        {
+                            "$": "Xinlong Wang"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2017-08-11T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1385894717313852"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1385894717313852?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.cej.2017.08.045",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1385894717313852",
+                "dc:title": "Efficient quasi-mesoscopic perovskite solar cells using Li-doped hierarchical TiO<ce:inf loc=post>2</ce:inf> as scaffold of scattered distribution",
+                "dc:creator": "Xian Hou",
+                "prism:publicationName": "Chemical Engineering Journal",
+                "prism:volume": "330",
+                "prism:coverDate": "2017-12-15",
+                "prism:startingPage": "947",
+                "prism:endingPage": "955",
+                "prism:doi": "10.1016/j.cej.2017.08.045",
+                "openaccess": false,
+                "pii": "S1385894717313852",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Xian Hou"
+                        },
+                        {
+                            "$": "Jianping Zhou"
+                        },
+                        {
+                            "$": "Sumei Huang"
+                        },
+                        {
+                            "$": "Wei Ou-Yang"
+                        },
+                        {
+                            "$": "Xiaohong Chen"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2002-10-10T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/0040609090902286"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/0040609090902286?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/0040-6090(90)90228-6",
+                "prism:url": "https://api.elsevier.com/content/article/pii/0040609090902286",
+                "dc:title": "Recent developments in thin film solar cells",
+                "dc:creator": "Neelkanth G Dhere",
+                "prism:publicationName": "Thin Solid Films",
+                "prism:volume": "193–194",
+                "prism:coverDate": "1990-12-15",
+                "prism:startingPage": "757",
+                "prism:endingPage": "768",
+                "prism:doi": "10.1016/0040-6090(90)90228-6",
+                "openaccess": false,
+                "pii": "0040609090902286",
+                "authors": {
+                    "author": "Neelkanth G Dhere"
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2018-03-13T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0038092X18300860"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0038092X18300860?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.solener.2018.01.065",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0038092X18300860",
+                "dc:title": "Improving light trapping of polymer solar cell via doping a new array of triple core-shell spherical nanoparticles utilizing realistic modeling",
+                "dc:creator": "Mir Kazem Omrani",
+                "prism:publicationName": "Solar Energy",
+                "prism:volume": "163",
+                "prism:coverDate": "2018-03-15",
+                "prism:startingPage": "600",
+                "prism:endingPage": "609",
+                "prism:doi": "10.1016/j.solener.2018.01.065",
+                "openaccess": false,
+                "pii": "S0038092X18300860",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Mir Kazem Omrani"
+                        },
+                        {
+                            "$": "Hamidreza Fallah"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2011-01-27T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/B9780080966342000323"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/B9780080966342000323?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/B978-0-08-096634-2.00032-3",
+                "prism:url": "https://api.elsevier.com/content/article/pii/B9780080966342000323",
+                "dc:title": "Topic 32: Instrumentation Systems",
+                "dc:creator": "Owen Bishop",
+                "prism:publicationName": "Electronics - Circuits and Systems",
+                "prism:coverDate": "2011-12-31",
+                "prism:startingPage": "269",
+                "prism:endingPage": "275",
+                "prism:doi": "10.1016/B978-0-08-096634-2.00032-3",
+                "openaccess": false,
+                "pii": "B9780080966342000323",
+                "authors": {
+                    "author": "Owen Bishop"
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2014-09-16T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0925857414003760"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0925857414003760?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.ecoleng.2014.07.077",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0925857414003760",
+                "dc:title": "Integrated constructed wetlands for treatment of dairy operation runoff in Eastern Tennessee during first year establishment",
+                "dc:creator": "Andrea L. Ludwig",
+                "prism:publicationName": "Ecological Engineering",
+                "prism:volume": "78",
+                "prism:coverDate": "2015-05-31",
+                "prism:startingPage": "33",
+                "prism:endingPage": "40",
+                "prism:doi": "10.1016/j.ecoleng.2014.07.077",
+                "openaccess": false,
+                "pii": "S0925857414003760",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Andrea L. Ludwig"
+                        },
+                        {
+                            "$": "Wesley C. Wright"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2014-06-06T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0169131714001653"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0169131714001653?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.clay.2014.05.013",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0169131714001653",
+                "dc:title": "Integrative strategies to hybrid lamellar compounds: an integration challenge",
+                "dc:creator": "F. M. Fernandes",
+                "prism:publicationName": "Applied Clay Science",
+                "prism:volume": "100",
+                "prism:coverDate": "2014-10-31",
+                "prism:startingPage": "2",
+                "prism:endingPage": "21",
+                "prism:doi": "10.1016/j.clay.2014.05.013",
+                "openaccess": false,
+                "pii": "S0169131714001653",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "F. M. Fernandes"
+                        },
+                        {
+                            "$": "H. Baradari"
+                        },
+                        {
+                            "$": "C. Sanchez"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2020-01-23T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0169433220302592"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0169433220302592?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.apsusc.2020.145503",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0169433220302592",
+                "dc:title": "Temperature dependence of optical properties of monolayer WS<ce:inf loc=post>2</ce:inf> by spectroscopic ellipsometry",
+                "dc:creator": "Hoang Tung Nguyen",
+                "prism:publicationName": "Applied Surface Science",
+                "prism:volume": "511",
+                "prism:coverDate": "2020-05-01",
+                "prism:startingPage": "145503",
+                "prism:doi": "10.1016/j.apsusc.2020.145503",
+                "openaccess": false,
+                "pii": "S0169433220302592",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Hoang Tung Nguyen"
+                        },
+                        {
+                            "$": "Tae Jung Kim"
+                        },
+                        {
+                            "$": "Han Gyeol Park"
+                        },
+                        {
+                            "$": "Van Long Le"
+                        },
+                        {
+                            "$": "Young Dong Kim"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}
