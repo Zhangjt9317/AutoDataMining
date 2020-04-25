@@ -1,0 +1,2 @@
+# AutoDataMining
+Data Mining Project 
