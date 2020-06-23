@@ -1,0 +1,1963 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/resources/spdi-openaccess-jats.xsl"?>
+<!DOCTYPE response [
+  <!ENTITY %article SYSTEM "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+  <!ENTITY %book-part-wrapper SYSTEM "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+]>
+<response>
+   <apiMessage>This XML was provided by Springer Nature</apiMessage>
+   <query>doi:10.1186/1556-276X-8-88</query>
+   <apiKey>f8df6f9fe3e76bc3a702c242e11cffc7</apiKey>
+   <result>
+      <total>1</total>
+      <start>1</start>
+      <pageLength>10</pageLength>
+      <recordsDisplayed>1</recordsDisplayed>
+   </result>
+   <records>
+      <article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.2" article-type="brief-report" xml:lang="en">
+         <?properties open_access?>
+         <front>
+            <journal-meta>
+               <journal-id journal-id-type="publisher-id">11671</journal-id>
+               <journal-id journal-id-type="doi">10.1007/11671.1556-276X</journal-id>
+               <journal-title-group>
+                  <journal-title>Nanoscale Research Letters</journal-title>
+                  <abbrev-journal-title abbrev-type="publisher">Nanoscale Res Lett</abbrev-journal-title>
+               </journal-title-group>
+               <issn pub-type="epub">1556-276X</issn>
+               <publisher>
+                  <publisher-name>Springer New York</publisher-name>
+                  <publisher-loc>New York</publisher-loc>
+               </publisher>
+            </journal-meta>
+            <article-meta>
+               <article-id pub-id-type="publisher-id">BMC1556-276X-8-88</article-id>
+               <article-id pub-id-type="manuscript">1315</article-id>
+               <article-id pub-id-type="doi">10.1186/1556-276X-8-88</article-id>
+               <article-categories>
+                  <subj-group subj-group-type="heading">
+                     <subject>Nano Express</subject>
+                  </subj-group>
+               </article-categories>
+               <title-group>
+                  <article-title xml:lang="en">Improved photovoltaic performance of silicon nanowire/organic hybrid solar cells by incorporating silver nanoparticles</article-title>
+               </title-group>
+               <contrib-group>
+                  <contrib contrib-type="author">
+                     <name>
+                        <surname>Liu</surname>
+                        <given-names>Kong</given-names>
+                     </name>
+                     <xref ref-type="aff" rid="Aff1">1</xref>
+                  </contrib>
+                  <contrib contrib-type="author" corresp="yes">
+                     <name>
+                        <surname>Qu</surname>
+                        <given-names>Shengchun</given-names>
+                     </name>
+                     <xref ref-type="aff" rid="Aff1">1</xref>
+                     <xref ref-type="corresp" rid="IDBMC1556276X888_cor2">b</xref>
+                  </contrib>
+                  <contrib contrib-type="author">
+                     <name>
+                        <surname>Zhang</surname>
+                        <given-names>Xinhui</given-names>
+                     </name>
+                     <xref ref-type="aff" rid="Aff2">2</xref>
+                  </contrib>
+                  <contrib contrib-type="author">
+                     <name>
+                        <surname>Tan</surname>
+                        <given-names>Furui</given-names>
+                     </name>
+                     <xref ref-type="aff" rid="Aff1">1</xref>
+                  </contrib>
+                  <contrib contrib-type="author">
+                     <name>
+                        <surname>Wang</surname>
+                        <given-names>Zhanguo</given-names>
+                     </name>
+                     <xref ref-type="aff" rid="Aff1">1</xref>
+                  </contrib>
+                  <aff id="Aff1">
+                     <label>1</label>
+                     <institution-wrap>
+                        <institution-id institution-id-type="GRID">grid.9227.e</institution-id>
+                        <institution-id institution-id-type="ISNI">0000000119573309</institution-id>
+                        <institution content-type="org-division">Key Laboratory of Semiconductor Materials Science, Institute of Semiconductor</institution>
+                        <institution content-type="org-name">Chinese Academy of Sciences</institution>
+                     </institution-wrap>
+                     <addr-line content-type="postcode">100083</addr-line>
+                     <addr-line content-type="city">Beijing</addr-line>
+                     <country country="CN">People's Republic of China</country>
+                  </aff>
+                  <aff id="Aff2">
+                     <label>2</label>
+                     <institution-wrap>
+                        <institution-id institution-id-type="GRID">grid.9227.e</institution-id>
+                        <institution-id institution-id-type="ISNI">0000000119573309</institution-id>
+                        <institution content-type="org-division">State Key Laboratory of Superlattices and Microstructures, Institute of Semiconductor</institution>
+                        <institution content-type="org-name">Chinese Academy of Sciences</institution>
+                     </institution-wrap>
+                     <addr-line content-type="postcode">100083</addr-line>
+                     <addr-line content-type="city">Beijing</addr-line>
+                     <country country="CN">People's Republic of China</country>
+                  </aff>
+               </contrib-group>
+               <author-notes>
+                  <corresp id="IDBMC1556276X888_cor2">
+                     <label>b</label>
+                     <email>qsc@semi.ac.cn</email>
+                  </corresp>
+               </author-notes>
+               <pub-date date-type="epub">
+                  <day>18</day>
+                  <month>2</month>
+                  <year>2013</year>
+               </pub-date>
+               <pub-date date-type="collection">
+                  <month>12</month>
+                  <year>2013</year>
+               </pub-date>
+               <volume>8</volume>
+               <issue seq="57">1</issue>
+               <elocation-id>88</elocation-id>
+               <history>
+                  <date date-type="registration">
+                     <day>22</day>
+                     <month>12</month>
+                     <year>2012</year>
+                  </date>
+                  <date date-type="received">
+                     <day>22</day>
+                     <month>12</month>
+                     <year>2012</year>
+                  </date>
+                  <date date-type="accepted">
+                     <day>26</day>
+                     <month>1</month>
+                     <year>2013</year>
+                  </date>
+                  <date date-type="online">
+                     <day>18</day>
+                     <month>2</month>
+                     <year>2013</year>
+                  </date>
+               </history>
+               <permissions>
+                  <copyright-statement>
+                     © Liu et al.; licensee Springer. 2013. This article is published under license to BioMed Central Ltd. This is an Open Access article distributed under the terms of the Creative Commons Attribution License (
+                     <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/2.0">http://creativecommons.org/licenses/by/2.0</ext-link>
+                     ), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+                  </copyright-statement>
+                  <copyright-year>2013</copyright-year>
+               </permissions>
+               <abstract id="Abs1" xml:lang="en">
+                  <title>Abstract</title>
+                  <p>Silicon nanowire (SiNW) arrays show an excellent light-trapping characteristic and high mobility for carriers. Surface plasmon resonance of silver nanoparticles (AgNPs) can be used to increase light scattering and absorption in solar cells. We fabricated a new kind of SiNW/organic hybrid solar cell by introducing AgNPs. Reflection spectra confirm the improved light scattering of AgNP-decorated SiNW arrays. A double-junction tandem structure was designed to manufacture our hybrid cells. Both short-circuit current and external quantum efficiency measurements show an enhancement in optical absorption of organic layer, especially at lower wavelengths.</p>
+               </abstract>
+               <kwd-group xml:lang="en">
+                  <title>Keywords</title>
+                  <kwd>Silicon nanowire</kwd>
+                  <kwd>Silver nanoparticle</kwd>
+                  <kwd>Surface plasmon resonance</kwd>
+                  <kwd>Hybrid solar cell</kwd>
+               </kwd-group>
+               <custom-meta-group>
+                  <custom-meta>
+                     <meta-name>publisher-imprint-name</meta-name>
+                     <meta-value>Springer</meta-value>
+                  </custom-meta>
+                  <custom-meta>
+                     <meta-name>volume-issue-count</meta-name>
+                     <meta-value>1</meta-value>
+                  </custom-meta>
+                  <custom-meta>
+                     <meta-name>issue-article-count</meta-name>
+                     <meta-value>547</meta-value>
+                  </custom-meta>
+                  <custom-meta>
+                     <meta-name>issue-toc-levels</meta-name>
+                     <meta-value>0</meta-value>
+                  </custom-meta>
+                  <custom-meta>
+                     <meta-name>issue-copyright-holder</meta-name>
+                     <meta-value>The Author(s)</meta-value>
+                  </custom-meta>
+                  <custom-meta>
+                     <meta-name>issue-copyright-year</meta-name>
+                     <meta-value>2013</meta-value>
+                  </custom-meta>
+                  <custom-meta>
+                     <meta-name>article-contains-esm</meta-name>
+                     <meta-value>Yes</meta-value>
+                  </custom-meta>
+                  <custom-meta>
+                     <meta-name>article-numbering-style</meta-name>
+                     <meta-value>Unnumbered</meta-value>
+                  </custom-meta>
+                  <custom-meta>
+                     <meta-name>article-registration-date-year</meta-name>
+                     <meta-value>2012</meta-value>
+                  </custom-meta>
+                  <custom-meta>
+                     <meta-name>article-registration-date-month</meta-name>
+                     <meta-value>12</meta-value>
+                  </custom-meta>
+                  <custom-meta>
+                     <meta-name>article-registration-date-day</meta-name>
+                     <meta-value>22</meta-value>
+                  </custom-meta>
+                  <custom-meta>
+                     <meta-name>article-toc-levels</meta-name>
+                     <meta-value>0</meta-value>
+                  </custom-meta>
+                  <custom-meta>
+                     <meta-name>toc-levels</meta-name>
+                     <meta-value>0</meta-value>
+                  </custom-meta>
+                  <custom-meta>
+                     <meta-name>volume-type</meta-name>
+                     <meta-value>Regular</meta-value>
+                  </custom-meta>
+                  <custom-meta>
+                     <meta-name>journal-product</meta-name>
+                     <meta-value>ArchiveJournal</meta-value>
+                  </custom-meta>
+                  <custom-meta>
+                     <meta-name>numbering-style</meta-name>
+                     <meta-value>Unnumbered</meta-value>
+                  </custom-meta>
+                  <custom-meta>
+                     <meta-name>article-grants-type</meta-name>
+                     <meta-value>OpenChoice</meta-value>
+                  </custom-meta>
+                  <custom-meta>
+                     <meta-name>metadata-grant</meta-name>
+                     <meta-value>OpenAccess</meta-value>
+                  </custom-meta>
+                  <custom-meta>
+                     <meta-name>abstract-grant</meta-name>
+                     <meta-value>OpenAccess</meta-value>
+                  </custom-meta>
+                  <custom-meta>
+                     <meta-name>bodypdf-grant</meta-name>
+                     <meta-value>OpenAccess</meta-value>
+                  </custom-meta>
+                  <custom-meta>
+                     <meta-name>bodyhtml-grant</meta-name>
+                     <meta-value>OpenAccess</meta-value>
+                  </custom-meta>
+                  <custom-meta>
+                     <meta-name>bibliography-grant</meta-name>
+                     <meta-value>OpenAccess</meta-value>
+                  </custom-meta>
+                  <custom-meta>
+                     <meta-name>esm-grant</meta-name>
+                     <meta-value>OpenAccess</meta-value>
+                  </custom-meta>
+                  <custom-meta>
+                     <meta-name>online-first</meta-name>
+                     <meta-value>false</meta-value>
+                  </custom-meta>
+                  <custom-meta>
+                     <meta-name>pdf-file-reference</meta-name>
+                     <meta-value>BodyRef/PDF/11671_2012_Article_1315.pdf</meta-value>
+                  </custom-meta>
+                  <custom-meta>
+                     <meta-name>target-type</meta-name>
+                     <meta-value>OnlinePDF</meta-value>
+                  </custom-meta>
+                  <custom-meta>
+                     <meta-name>issue-type</meta-name>
+                     <meta-value>Regular</meta-value>
+                  </custom-meta>
+                  <custom-meta>
+                     <meta-name>article-type</meta-name>
+                     <meta-value>BriefCommunication</meta-value>
+                  </custom-meta>
+                  <custom-meta>
+                     <meta-name>journal-subject-primary</meta-name>
+                     <meta-value>Material Science</meta-value>
+                  </custom-meta>
+                  <custom-meta>
+                     <meta-name>journal-subject-secondary</meta-name>
+                     <meta-value>Nanotechnology</meta-value>
+                  </custom-meta>
+                  <custom-meta>
+                     <meta-name>journal-subject-secondary</meta-name>
+                     <meta-value>Nanotechnology and Microengineering</meta-value>
+                  </custom-meta>
+                  <custom-meta>
+                     <meta-name>journal-subject-secondary</meta-name>
+                     <meta-value>Nanoscale Science and Technology</meta-value>
+                  </custom-meta>
+                  <custom-meta>
+                     <meta-name>journal-subject-secondary</meta-name>
+                     <meta-value>Nanochemistry</meta-value>
+                  </custom-meta>
+                  <custom-meta>
+                     <meta-name>journal-subject-secondary</meta-name>
+                     <meta-value>Molecular Medicine</meta-value>
+                  </custom-meta>
+                  <custom-meta>
+                     <meta-name>open-access</meta-name>
+                     <meta-value>true</meta-value>
+                  </custom-meta>
+               </custom-meta-group>
+            </article-meta>
+            <notes notes-type="ESMHint">
+               <title>Electronic supplementary material</title>
+               <p>The online version of this article (doi:10.1186/1556-276X-8-88) contains supplementary material, which is available to authorized users.</p>
+            </notes>
+            <notes notes-type="CopyrightComment">
+               <title>Copyright comment</title>
+               <p>
+                  This article is published under license to BioMed Central Ltd. This is an Open Access article distributed under the terms of the Creative Commons Attribution License (
+                  <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/2.0">http://creativecommons.org/licenses/by/2.0</ext-link>
+                  ), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+               </p>
+            </notes>
+         </front>
+         <body>
+            <sec id="Sec1">
+               <title>Background</title>
+               <p>
+                  Organic solar cells have emerged as potential energy conversion devices for several advantages, including flexibility, lightweight, semi-transparent characteristics, and ability to large-scale production at low temperature [
+                  <xref ref-type="bibr" rid="CR1">1</xref>
+                  –
+                  <xref ref-type="bibr" rid="CR3">3</xref>
+                  ]. However, their reported efficiencies are still very low even for laboratory cells. The most crucial problems many of these devices face are limited mobility of charge carriers and rapid recombination. To mitigate these problems, some special methods, such as reducing the thickness of the active layer of solar cell and incorporating inorganic materials with high carrier mobility, have been taken for effective charge separation [
+                  <xref ref-type="bibr" rid="CR4">4</xref>
+                  –
+                  <xref ref-type="bibr" rid="CR6">6</xref>
+                  ].
+               </p>
+               <p>
+                  One of these inorganic materials is silicon nanowires (SiNWs) [
+                  <xref ref-type="bibr" rid="CR7">7</xref>
+                  –
+                  <xref ref-type="bibr" rid="CR9">9</xref>
+                  ]. Most recently, some research groups have demonstrated fabrication of SiNW/organic hybrid solar cells [
+                  <xref ref-type="bibr" rid="CR10">10</xref>
+                  –
+                  <xref ref-type="bibr" rid="CR16">16</xref>
+                  ]. These SiNWs can offer at least three advantages for solar energy conversion. First, they provide high-mobility pathway from the active interface to the electrodes for carriers. Second, they can significantly reduce reflection and induce strong light trapping between nanowires, resulting in strong absorption. Finally, they increase the contact area between the two materials.
+               </p>
+               <p>
+                  On the other hand, application of AgNPs in organic photovoltaic devices is of considerable interest [
+                  <xref ref-type="bibr" rid="CR17">17</xref>
+                  ]. Surface plasmon resonance in AgNPs offers a promising way to enhance the power conversion efficiency (PCE) of organic solar cells as it exhibits strong local field enhancement around the AgNPs, which can increase light scattering and absorption in the organic film [
+                  <xref ref-type="bibr" rid="CR18">18</xref>
+                  –
+                  <xref ref-type="bibr" rid="CR21">21</xref>
+                  ]. In recent years, a simple method for depositing AgNPs on silicon wafers by galvanic displacement has received renewed interests [
+                  <xref ref-type="bibr" rid="CR22">22</xref>
+                  ]. As a versatile fabrication method, it is well suited to yield films with high purity and substrate adhesion [
+                  <xref ref-type="bibr" rid="CR23">23</xref>
+                  ]. Thus, it is expected that the integration of AgNP-decorated SiNW array and polymer could lead to a simple process and high-performance solar cells.
+               </p>
+               <p>
+                  In this work, we report an efficient approach for enhancing the PCE of SiNW/poly(3-hexylthiophene) (P3HT):[
+                  <xref ref-type="bibr" rid="CR6">6</xref>
+                  ]-phenyl-C61-butyric acid methyl ester (PCBM) hybrid solar cells by decorating AgNPs on the SiNW surface. In order to evaluate the performance of the scattering effect of AgNPs, we have prepared different diameters of AgNP-decorated SiNW array samples by varying Ag deposition duration, with a Ag-free SiNW array sample as reference. Some hybrid solar cells with the structure of Al/n-type SiNW/AgNP/P3HT:PCBM/poly(3,4-ethylene-dioxythiophene):poly-styrenesulfonate (PEDOT:PSS)/indium tin oxide (ITO) were fabricated.
+               </p>
+            </sec>
+            <sec id="Sec2" sec-type="methods">
+               <title>Methods</title>
+               <p>
+                  N-type silicon wafers with a thickness of 200 μm and a resistivity of 1 to 10 Ω cm were used. Vertically aligned SiNW arrays were prepared by metal-assisted chemical etching [
+                  <xref ref-type="bibr" rid="CR24">24</xref>
+                  ,
+                  <xref ref-type="bibr" rid="CR25">25</xref>
+                  ]. Silicon pieces were first immersed into an aqueous solution of 5 M hydrofluoric (HF) acid and 0.02 M silver nitrate (AgNO
+                  <sub>3</sub>
+                  ) for 60 s at room temperature to deposit Ag particles. Then, the Ag particle-coated silicon wafers were moved into an etching solution contained in a reactive vessel for 3 min. The etching solution was made of 5 M HF acid and 0.2 M hydrogen peroxide (H
+                  <sub>2</sub>
+                  O
+                  <sub>2</sub>
+                  ). When the etching processes were over, the silicon strips were dipped into an aqueous solution of nitric acid (HNO
+                  <sub>3</sub>
+                  ) and then rinsed with deionized water to remove any residual silver. After that, the synthesized SiNW array samples were immersed in a plating solution containing HF acid (5 M) and AgNO
+                  <sub>3</sub>
+                  (0.02 M) to deposit AgNPs on SiNWs. The diameter of AgNPs was adjusted by changing deposition times. For comparison, another sample without AgNPs was also prepared. In order to obtain standard spherical particles and decrease defects on the surface, the AgNP-decorated SiNW array was annealed in N
+                  <sub>2</sub>
+                  at 200°C for 90 min before cell fabrication.
+               </p>
+               <p>
+                  Before polymer coating, aluminum (Al) had been attached onto the rear side by thermal evaporation to obtain an ohmic contact. The polymer, P3HT:PCBM (refers to [60]PCBM) with a weight ratio of 1:1, was deposited onto SiNWs by spin coating (2,000 rpm, 1 min), and PEDOT:PSS was deposited onto ITO/glass substrate by spin coating (4,000 rpm, 1 min) in air. Then, PEDOT:PSS/ITO/glass substrate were coated on the P3HT:PCBM and fixed with a clip to complete the hybrid solar cell fabrication. After that, the whole substrates were baked at 110°C in nitrogen for 20 min. A hybrid solar cell without AgNPs decorated was also prepared as a reference device. The active area of all the cells was 16 mm
+                  <sup>2</sup>
+                  .
+               </p>
+               <p>
+                  The morphology of SiNWs and AgNPs was characterized using a scanning electron microscope (SEM; JSM-7401F, JEOL Ltd., Akishima-shi, Japan). The crystal structures of the AgNPs were characterized by X-ray diffraction (XRD) using the copper Kα radiation. The reflection spectra were obtained at room temperature using a fiber-optic spectrometer (AvaSpec-2048, Avantes BV, Apeldoorn, The Netherlands) equipped with an integrating sphere. Current density-voltage (
+                  <italic>J</italic>
+                  -
+                  <italic>V</italic>
+                  ) characteristics were measured with assistance of AM 1.5 illumination (100 mW/cm
+                  <sup>2</sup>
+                  ). The quantum efficiency testing was performed on a DH1720A-1 250-W bromine tungsten arc source (DaHua Electronic, Beijing, China) and a Digikrom DK240 monochromator (Spectral Products, Putnam, CT, USA).
+               </p>
+            </sec>
+            <sec id="Sec3">
+               <title>Results and discussion</title>
+               <p>
+                  The schematic and energy band diagrams of our hybrid solar cells are shown in Figure 
+                  <xref rid="Fig1" ref-type="fig">1</xref>
+                  . As shown, our hybrid cells could be treated as double-junction tandem solar cells [
+                  <xref ref-type="bibr" rid="CR26">26</xref>
+                  ,
+                  <xref ref-type="bibr" rid="CR27">27</xref>
+                  ]. The highest occupied molecular orbital of P3HT is positioned to inject holes into PEDOT:PSS and hence into the ITO electrode. The lowest unoccupied molecular orbital of PCBM is well above the Fermi level of the n-SiNWs, and electron collection should occur efficiently at the silicon interface. Electrons generated in the SiNWs will be collected at the Al electrode.
+                  <fig id="Fig1">
+                     <label>Figure 1</label>
+                     <caption xml:lang="en">
+                        <p>
+                           <bold>Schematic of the AgNP-decorated SiNW/organic hybrid solar cell.</bold>
+                           (
+                           <bold>a</bold>
+                           ) Al/n-SiNW/PCBM:P3HT/PEDOT:PSS/ITO solar cell structure. (
+                           <bold>b</bold>
+                           ) Energy band diagram and possible charge transportation of solar cell.
+                        </p>
+                     </caption>
+                     <graphic specific-use="HTML" mime-subtype="JPEG" xlink:href="MediaObjects/11671_2012_Article_1315_Fig1_HTML.jpg" />
+                  </fig>
+               </p>
+               <p>
+                  Figure 
+                  <xref rid="Fig2" ref-type="fig">2</xref>
+                  a,b,c shows the cross-sectional view of SiNW arrays after depositing AgNPs for 4, 6, and 8 s. It can be seen that the as-synthesized SiNWs are vertically aligned on the silicon surface. The average diameter and length of SiNWs are about 150 nm and 1.5 μm, respectively. The AgNPs prepared by deposition for 4, 6, and 8 s give average diameters of about 19, 23, and 26 nm, respectively. For longer deposition time, some Ag dendrite structures will form on top of the SiNW array; they will restrain the growth of AgNPs on the SiNW surface and worsen the spin coating effect in the post steps. So we only chose these three cases.
+                  <fig id="Fig2">
+                     <label>Figure 2</label>
+                     <caption xml:lang="en">
+                        <p>
+                           <bold>SEM images of AgNP-decorated SiNW arrays.</bold>
+                           (
+                           <bold>a</bold>
+                           ,
+                           <bold>b</bold>
+                           ,
+                           <bold>c</bold>
+                           ) Side view of SiNW arrays after depositing AgNPs for (a) 4, (b) 6, and (c) 8 s. (
+                           <bold>d</bold>
+                           ) A higher magnification image of AgNPs in (c).
+                        </p>
+                     </caption>
+                     <graphic specific-use="HTML" mime-subtype="JPEG" xlink:href="MediaObjects/11671_2012_Article_1315_Fig2_HTML.jpg" />
+                  </fig>
+               </p>
+               <p>
+                  A typical closer look (Figure 
+                  <xref rid="Fig2" ref-type="fig">2</xref>
+                  d) shows that AgNPs are well attached to the SiNW surface and predominantly spherical in shape after annealing treatment. Figure 
+                  <xref rid="Fig3" ref-type="fig">3</xref>
+                  shows the XRD pattern of AgNPs on SiNW array presented in Figure 
+                  <xref rid="Fig2" ref-type="fig">2</xref>
+                  d. The sharp peaks that appeared in the XRD patterns can be assigned to Ag crystals, which illustrate good crystallinity of AgNPs after annealing treatment. However, one can see that the diameter of AgNPs actually ranges from 10 to 50 nm; this broad size distribution may lead to a possible optical response featured by multiple plasmon resonances.
+                  <fig id="Fig3">
+                     <label>Figure 3</label>
+                     <caption xml:lang="en">
+                        <p>
+                           <bold>XRD pattern of AgNPs on SiNW array.</bold>
+                           Sample is obtained by depositing AgNPs for 8 s.
+                        </p>
+                     </caption>
+                     <graphic specific-use="HTML" mime-subtype="JPEG" xlink:href="MediaObjects/11671_2012_Article_1315_Fig3_HTML.jpg" />
+                  </fig>
+               </p>
+               <p>
+                  Figure 
+                  <xref rid="Fig4" ref-type="fig">4</xref>
+                  shows the reflectivity of the SiNW array with and without AgNPs. Results of three different average diameters are presented to show the influence of particle size on light scattering effect. It clearly shows that the as-synthesized SiNWs on silicon substrate remarkably reduce reflectance throughout the entire wavelength range. This low reflectance of SiNWs mainly comes from the multiple reflection of light among SiNW array, which can lengthen the optical path and increase the capture ratio of photon. In AgNP-decorated cases, the reflectance curves lift up a little more than those in bare SiNW array, indicating the scattering effect of AgNPs. However, at the same time, it demonstrates a clear dip around 380 nm in the reflectance of AgNP-decorated samples, indicating the plasmon resonance absorption of the AgNPs. Furthermore, with the AgNP average size increasing from 19 to 26 nm, some particles become irregular in shape, which makes the resonance dip to broaden and show a red shift. Nevertheless, because the feature size of the particles is in the range of 19 to 26 nm, scattering behavior will be stronger than absorbing behavior on the whole.
+                  <fig id="Fig4">
+                     <label>Figure 4</label>
+                     <caption xml:lang="en">
+                        <p>
+                           <bold>Optical reflectance spectra of SiNW arrays.</bold>
+                           The black square line, red dot line, and blue up-triangle line represent the spectra of SiNW arrays decorated with AgNPs with the diameter of 19, 23, and 26 nm, respectively. The green down-triangle line represents the reflectance of bare SiNW array without AgNPs.
+                        </p>
+                     </caption>
+                     <graphic specific-use="HTML" mime-subtype="JPEG" xlink:href="MediaObjects/11671_2012_Article_1315_Fig4_HTML.jpg" />
+                  </fig>
+               </p>
+               <p>
+                  It is well known that the transmittance of silicon in the wavelength region of 300 to 1,000 nm is almost zero [
+                  <xref ref-type="bibr" rid="CR1">1</xref>
+                  ]. Therefore, the absorbance of silicon will be directly related to the reflectance. It should also be noticed that the reflected light only contains the part of scattering light which escapes from the structure. Other scattering light from AgNPs will be absorbed by the adjacent SiNWs or experience multiple reflections in the structure. On the other hand, the scattering effect is relative to the dielectric around the particles. That is to say, only after incorporating the polymer into the space of the structure could the scattering light be utilized effectively.
+               </p>
+               <p>
+                  To make the SiNW and polymer composite together efficiently, we deposited polymer onto SiNWs by spin coating at a relative low rotation speed. Figure 
+                  <xref rid="Fig5" ref-type="fig">5</xref>
+                  shows the SEM image of the SiNW array incorporated by P3HT/PCBM. It can be seen that the polymer fills all the space among the SiNWs, which could make the polymer to wrap up all the SiNWs and AgNPs. This structure could provide many benefits for our solar cells. On the one hand, the SiNWs provide high-mobility pathways for carriers. On the other hand, uniformly distributed SiNWs, as supporters of AgNPs, ensure less agglomeration and good dispersity of AgNPs in the organic layer. In device manufacturing process, we directly coated a PEDOT:PSS/ITO/glass substrate on P3HT:PCBM to form a contact. Compared with sputtering, this method could reduce the structure damage of the polymer introduced by particle impact. At the same time, the glass substrate could prevent oxidation of the organic layer effectively, which is good for preserving the devices for a long time.
+                  <fig id="Fig5">
+                     <label>Figure 5</label>
+                     <caption xml:lang="en">
+                        <p>
+                           <bold>Cross-sectional morphology of SiNW array incorporated by P3HT/PCBM.</bold>
+                        </p>
+                     </caption>
+                     <graphic specific-use="HTML" mime-subtype="JPEG" xlink:href="MediaObjects/11671_2012_Article_1315_Fig5_HTML.jpg" />
+                  </fig>
+               </p>
+               <p>
+                  The
+                  <italic>J</italic>
+                  -
+                  <italic>V</italic>
+                  characteristics of hybrid solar cells with different diameters of AgNPs compared to those of hybrid solar cells without AgNPs are shown in Figure 
+                  <xref rid="Fig6" ref-type="fig">6</xref>
+                  . The short-circuit current density (
+                  <italic>J</italic>
+                  <sub>sc</sub>
+                  ), open-circuit voltage (
+                  <italic>V</italic>
+                  <sub>oc</sub>
+                  ), fill factor (FF), and efficiency (
+                  <italic>η</italic>
+                  ) of all the cells are listed in Table 
+                  <xref rid="Tab1" ref-type="table">1</xref>
+                  . From the results presented in Figure 
+                  <xref rid="Fig6" ref-type="fig">6</xref>
+                  and Table 
+                  <xref rid="Tab1" ref-type="table">1</xref>
+                  , it can be found that the device performance of AgNP-decorated hybrid solar cells is improved compared to that of the reference device, which could be attributed to the enhanced light absorption of the polymer film. The short-circuit current increases from
+                  <italic>J</italic>
+                  <sub>sc</sub>
+                  = 10.5 mA/cm
+                  <sup>2</sup>
+                  for the reference cell to 16.6 mA/cm
+                  <sup>2</sup>
+                  for the best AgNP-decorated cell, with an enhancement up to 58%. The current gain gives a rise of the conversion efficiency from
+                  <italic>η</italic>
+                  = 2.47% to 3.23%, whereas the fill factor reduces from 0.501 to 0.429. Within the group of AgNP-decorated cells, the diameter of the AgNPs is an important factor in determining the cell efficiency. As shown in the curves, as the AgNPs become bigger, the
+                  <italic>J</italic>
+                  <sub>sc</sub>
+                  of the cell increases. This improvement of
+                  <italic>J</italic>
+                  <sub>sc</sub>
+                  can be mainly attributed to the enhancement of light scattering as the AgNP diameter increases. That is to say, increased light scattering will lead to some increased lateral reflection of light among the SiNWs and absorption of light in the polymer. Higher absorption of light will introduce more photogenerated carriers and lead to improved current density [
+                  <xref ref-type="bibr" rid="CR1">1</xref>
+                  ,
+                  <xref ref-type="bibr" rid="CR15">15</xref>
+                  ].
+                  <fig id="Fig6">
+                     <label>Figure 6</label>
+                     <caption xml:lang="en">
+                        <p>
+                           <bold>
+                              <italic>J</italic>
+                           </bold>
+                           <bold>-</bold>
+                           <bold>
+                              <italic>V</italic>
+                           </bold>
+                           <bold>characteristics of SiNW/organic hybrid solar cell.</bold>
+                           The red dot line, blue up-triangle line, and green down-triangle line represent the
+                           <italic>J</italic>
+                           -
+                           <italic>V</italic>
+                           characteristics of SiNW arrays decorated with AgNPs with diameters of 19, 23, and 26 nm, respectively. The black square line represents the
+                           <italic>J</italic>
+                           -
+                           <italic>V</italic>
+                           characteristics of bare SiNW array without AgNPs.
+                        </p>
+                     </caption>
+                     <graphic specific-use="HTML" mime-subtype="JPEG" xlink:href="MediaObjects/11671_2012_Article_1315_Fig6_HTML.jpg" />
+                  </fig>
+               </p>
+               <table-wrap id="Tab1">
+                  <label>Table 1</label>
+                  <caption xml:lang="en">
+                     <p>
+                        <bold>Device performances of SiNW/organic hybrid solar cells</bold>
+                     </p>
+                  </caption>
+                  <table frame="hsides" rules="groups">
+                     <thead>
+                        <tr>
+                           <th>
+                              <p>Device</p>
+                           </th>
+                           <th>
+                              <p>
+                                 <bold>
+                                    <italic>J</italic>
+                                 </bold>
+                                 <sub>sc</sub>
+                                 (mA/cm
+                                 <sup>2</sup>
+                                 )
+                              </p>
+                           </th>
+                           <th>
+                              <p>
+                                 <bold>
+                                    <italic>V</italic>
+                                 </bold>
+                                 <sub>oc</sub>
+                                 (V)
+                              </p>
+                           </th>
+                           <th>
+                              <p>FF (%)</p>
+                           </th>
+                           <th>
+                              <p>
+                                 <bold>
+                                    <italic>η</italic>
+                                 </bold>
+                                 (%)
+                              </p>
+                           </th>
+                           <th>
+                              <p>
+                                 <bold>
+                                    <italic>R</italic>
+                                 </bold>
+                                 <sub>S</sub>
+                                 (Ω cm
+                                 <sup>2</sup>
+                                 )
+                              </p>
+                           </th>
+                        </tr>
+                     </thead>
+                     <tbody>
+                        <tr>
+                           <td>
+                              <p>Without AgNPs</p>
+                           </td>
+                           <td>
+                              <p>10.5</p>
+                           </td>
+                           <td>
+                              <p>0.469</p>
+                           </td>
+                           <td>
+                              <p>50.1</p>
+                           </td>
+                           <td>
+                              <p>2.47</p>
+                           </td>
+                           <td>
+                              <p>30.3</p>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <p>19 nm</p>
+                           </td>
+                           <td>
+                              <p>14.1</p>
+                           </td>
+                           <td>
+                              <p>0.458</p>
+                           </td>
+                           <td>
+                              <p>43.4</p>
+                           </td>
+                           <td>
+                              <p>2.81</p>
+                           </td>
+                           <td>
+                              <p>26.8</p>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <p>23 nm</p>
+                           </td>
+                           <td>
+                              <p>15.4</p>
+                           </td>
+                           <td>
+                              <p>0.456</p>
+                           </td>
+                           <td>
+                              <p>44.1</p>
+                           </td>
+                           <td>
+                              <p>3.11</p>
+                           </td>
+                           <td>
+                              <p>20.7</p>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <p>26 nm</p>
+                           </td>
+                           <td>
+                              <p>16.6</p>
+                           </td>
+                           <td>
+                              <p>0.455</p>
+                           </td>
+                           <td>
+                              <p>42.9</p>
+                           </td>
+                           <td>
+                              <p>3.23</p>
+                           </td>
+                           <td>
+                              <p>19.8</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </table-wrap>
+               <p>
+                  However, we note that the
+                  <italic>V</italic>
+                  <sub>oc</sub>
+                  of AgNP-decorated cells decreases lightly. It has been reported that the passivation provided by the polymer and the interface area between the polymer and SiNWs (or AgNPs) could influence the open-circuit voltage of the devices [
+                  <xref ref-type="bibr" rid="CR1">1</xref>
+                  ]. In other words, increased AgNP diameter will lead to some increased interface area and hence decreased
+                  <italic>V</italic>
+                  <sub>oc</sub>
+                  . It should be mentioned that the fill factor of all the hybrid cells are still very low. The series resistance comes from defects in the SiNW array, and poor electrode contact might be responsible for the low value.
+               </p>
+               <p>
+                  External quantum efficiency (EQE) measurements of the cells with and without AgNPs have been carried out for comparison, as shown in Figure 
+                  <xref rid="Fig7" ref-type="fig">7</xref>
+                  . Since silicon substrate and P3HT/PCBM have different absorption spectra and our devices could be treated as double-junction tandem solar cells, the results of wavelength-dependent response of cells will reflect the light scattering effect of AgNPs more visually. It could be seen that the presence of the AgNPs leads to a considerable improvement in EQE for short-wavelength range, which is consistent with the absorption spectra of P3HT:PCBM [
+                  <xref ref-type="bibr" rid="CR23">23</xref>
+                  ], as compared to the reference cells. Furthermore, the curves of AgNP-decorated cells decrease slightly in long-wavelength range. This decrease could be attributed to the low light absorption in the silicon layer reduced by scattering and low absorptivity of the polymer in this wavelength range. However, it seems that there is no obvious difference of EQE among AgNP-decorated samples in the wavelength region of 800 to 1,000 nm. This phenomenon might be closely related to the optical confinement effect in the long-wavelength region. It has been reported that a dielectric shell surrounding SiNWs significantly reinforced their optical confinement and caused their resonant wavelength to red shift [
+                  <xref ref-type="bibr" rid="CR28">28</xref>
+                  ,
+                  <xref ref-type="bibr" rid="CR29">29</xref>
+                  ]. In our hybrid structure, the P3HT:PCBM layer surrounding SiNWs could also induce a similar optical confinement. This effect resulted in considerable improvement in light absorption of low-energy photons, which could diminish the difference of reflectance among AgNP-decorated samples in the wavelength region of 800 to 1,000 nm.
+                  <fig id="Fig7">
+                     <label>Figure 7</label>
+                     <caption xml:lang="en">
+                        <p>
+                           <bold>EQE spectra of SiNW/organic hybrid solar cell.</bold>
+                           The black square line, red dot line, and blue up-triangle line represent the EQE of SiNW arrays decorated with AgNPs with diameters of 19, 23, and 26 nm, respectively. The green down-triangle line represents the EQE of bare SiNW array without AgNPs.
+                        </p>
+                     </caption>
+                     <graphic specific-use="HTML" mime-subtype="JPEG" xlink:href="MediaObjects/11671_2012_Article_1315_Fig7_HTML.jpg" />
+                  </fig>
+               </p>
+               <p>
+                  Although the efficiencies of our devices are much lower than those of commercial silicon solar cells, the results of our experiments proved good effects of AgNPs in the SiNW/organic hybrid solar cell very well. Several other methods may be used to increase the efficiency of this hybrid solar cell. For example, etching the silicon substrate with an anodic aluminum oxide template could obtain a SiNW array with controlled size and excellent uniform distribution [
+                  <xref ref-type="bibr" rid="CR30">30</xref>
+                  ]. If we used a small-sized SiNW array to manufacture hybrid solar cells, the organic layer would become thinner, resulting in the improvement of carrier collection efficiency. On the other hand, a gas-phase polymerization method could be introduced in the polymer coating process to form a uniform thin layer on SiNWs, resulting in a core-shell-structured solar cell with lateral heterojunction [
+                  <xref ref-type="bibr" rid="CR31">31</xref>
+                  ]. Therefore, further efforts should be focused on these issues to improve the properties of SiNW/organic hybrid solar cells.
+               </p>
+            </sec>
+            <sec id="Sec4" sec-type="conclusions">
+               <title>Conclusions</title>
+               <p>
+                  In summary, AgNP-decorated SiNWs were fabricated by metal-assisted chemical etching and electroless deposition. AgNP-decorated SiNW/organic hybrid solar cells were also demonstrated, treating them as double-junction tandem solar cells. The power performance of cells is enhanced by using AgNPs. The performance is dominated by current enhancement. The short-circuit current increases from
+                  <italic>J</italic>
+                  <sub>sc</sub>
+                  = 10.5 mA/cm
+                  <sup>2</sup>
+                  for the reference cell to 16.6 mA/cm
+                  <sup>2</sup>
+                  for the best AgNP-decorated cell, with an enhancement up to 58%. The current gain gives a rise of the conversion efficiency from
+                  <italic>η</italic>
+                  = 2.47% to 3.23%, with an enhancement up to 30%. This enhancement is explained by light trapping effect of SiNWs and surface plasmon resonance scattering of AgNPs.
+               </p>
+            </sec>
+         </body>
+         <back>
+            <ack>
+               <title>Acknowledgements</title>
+               <p>This work was mostly supported by the National Basic Research Program of China (grant no. 2012CB934200) and the National Natural Science Foundation of China (contract nos. 50990064, 61076009, 61204002).</p>
+            </ack>
+            <ref-list id="Bib1">
+               <title>References</title>
+               <ref-list>
+                  <ref id="CR1">
+                     <label>1.</label>
+                     <mixed-citation publication-type="journal">
+                        <person-group person-group-type="author">
+                           <name>
+                              <surname>Jeong</surname>
+                              <given-names>S</given-names>
+                           </name>
+                           <name>
+                              <surname>Garnett</surname>
+                              <given-names>EC</given-names>
+                           </name>
+                           <name>
+                              <surname>Wang</surname>
+                              <given-names>S</given-names>
+                           </name>
+                           <name>
+                              <surname>Yu</surname>
+                              <given-names>ZG</given-names>
+                           </name>
+                           <name>
+                              <surname>Fan</surname>
+                              <given-names>SH</given-names>
+                           </name>
+                           <name>
+                              <surname>Brongersma</surname>
+                              <given-names>ML</given-names>
+                           </name>
+                           <name>
+                              <surname>McGehee</surname>
+                              <given-names>MD</given-names>
+                           </name>
+                           <name>
+                              <surname>Cui</surname>
+                              <given-names>Y</given-names>
+                           </name>
+                        </person-group>
+                        <article-title xml:lang="en">Hybrid silicon nanocone-polymer solar cells</article-title>
+                        <source>Nano Lett</source>
+                        <year>2012</year>
+                        <volume>12</volume>
+                        <fpage>2971</fpage>
+                        <lpage>2976</lpage>
+                        <pub-id pub-id-type="doi">10.1021/nl300713x</pub-id>
+                     </mixed-citation>
+                  </ref>
+                  <ref id="CR2">
+                     <label>2.</label>
+                     <mixed-citation publication-type="journal">
+                        <person-group person-group-type="author">
+                           <name>
+                              <surname>Ozdemir</surname>
+                              <given-names>B</given-names>
+                           </name>
+                           <name>
+                              <surname>Kulakci</surname>
+                              <given-names>M</given-names>
+                           </name>
+                           <name>
+                              <surname>Turan</surname>
+                              <given-names>R</given-names>
+                           </name>
+                           <name>
+                              <surname>Unalan</surname>
+                              <given-names>HE</given-names>
+                           </name>
+                        </person-group>
+                        <article-title xml:lang="en">Silicon nanowire - poly(3,4-ethylenedioxythiophene)-poly(styrenesulfonate) heterojunction solar cells</article-title>
+                        <source>Appl Phys Lett</source>
+                        <year>2011</year>
+                        <volume>99</volume>
+                        <fpage>113510</fpage>
+                        <pub-id pub-id-type="doi">10.1063/1.3636385</pub-id>
+                     </mixed-citation>
+                  </ref>
+                  <ref id="CR3">
+                     <label>3.</label>
+                     <mixed-citation publication-type="journal">
+                        <person-group person-group-type="author">
+                           <name>
+                              <surname>Kim</surname>
+                              <given-names>H</given-names>
+                           </name>
+                           <name>
+                              <surname>Ok</surname>
+                              <given-names>S</given-names>
+                           </name>
+                           <name>
+                              <surname>Chae</surname>
+                              <given-names>H</given-names>
+                           </name>
+                           <name>
+                              <surname>Choe</surname>
+                              <given-names>Y</given-names>
+                           </name>
+                        </person-group>
+                        <article-title xml:lang="en">Performance characteristics of polymer photovoltaic solar cells with an additive-incorporated active layer</article-title>
+                        <source>Nanoscale Res Lett</source>
+                        <year>2012</year>
+                        <volume>7</volume>
+                        <fpage>56</fpage>
+                        <pub-id pub-id-type="doi">10.1186/1556-276X-7-56</pub-id>
+                     </mixed-citation>
+                  </ref>
+                  <ref id="CR4">
+                     <label>4.</label>
+                     <mixed-citation publication-type="journal">
+                        <person-group person-group-type="author">
+                           <name>
+                              <surname>Lining</surname>
+                              <given-names>H</given-names>
+                           </name>
+                           <name>
+                              <surname>Changyun</surname>
+                              <given-names>J</given-names>
+                           </name>
+                           <name>
+                              <surname>Hao</surname>
+                              <given-names>W</given-names>
+                           </name>
+                           <name>
+                              <surname>Lai</surname>
+                              <given-names>D</given-names>
+                           </name>
+                           <name>
+                              <surname>Yew Heng</surname>
+                              <given-names>T</given-names>
+                           </name>
+                           <name>
+                              <surname>Chuan Seng</surname>
+                              <given-names>T</given-names>
+                           </name>
+                           <name>
+                              <surname>Rusli</surname>
+                           </name>
+                        </person-group>
+                        <article-title xml:lang="en">Effects of nanowire texturing on the performance of Si/organic hybrid solar cells fabricated with a 2.2 μm thin-film Si absorber</article-title>
+                        <source>Appl Phys Lett</source>
+                        <year>2012</year>
+                        <volume>100</volume>
+                        <fpage>103104</fpage>
+                        <pub-id pub-id-type="doi">10.1063/1.3692590</pub-id>
+                     </mixed-citation>
+                  </ref>
+                  <ref id="CR5">
+                     <label>5.</label>
+                     <mixed-citation publication-type="journal">
+                        <person-group person-group-type="author">
+                           <name>
+                              <surname>Syu</surname>
+                              <given-names>HJ</given-names>
+                           </name>
+                           <name>
+                              <surname>Shiu</surname>
+                              <given-names>SC</given-names>
+                           </name>
+                           <name>
+                              <surname>Lin</surname>
+                              <given-names>CF</given-names>
+                           </name>
+                        </person-group>
+                        <article-title xml:lang="en">Silicon nanowire/organic hybrid solar cell with efficiency of 8.40%</article-title>
+                        <source>Sol Energy Mater Sol Cells</source>
+                        <year>2012</year>
+                        <volume>98</volume>
+                        <fpage>267</fpage>
+                        <lpage>272</lpage>
+                        <pub-id pub-id-type="doi">10.1016/j.solmat.2011.11.003</pub-id>
+                     </mixed-citation>
+                  </ref>
+                  <ref id="CR6">
+                     <label>6.</label>
+                     <mixed-citation publication-type="journal">
+                        <person-group person-group-type="author">
+                           <name>
+                              <surname>Tan</surname>
+                              <given-names>FR</given-names>
+                           </name>
+                           <name>
+                              <surname>Qu</surname>
+                              <given-names>SC</given-names>
+                           </name>
+                           <name>
+                              <surname>Wu</surname>
+                              <given-names>J</given-names>
+                           </name>
+                           <name>
+                              <surname>Liu</surname>
+                              <given-names>K</given-names>
+                           </name>
+                           <name>
+                              <surname>Zhou</surname>
+                              <given-names>SY</given-names>
+                           </name>
+                           <name>
+                              <surname>Wang</surname>
+                              <given-names>ZG</given-names>
+                           </name>
+                        </person-group>
+                        <article-title xml:lang="en">
+                           Preparation of SnS
+                           <sub>2</sub>
+                           colloidal quantum dots and their application in organic/inorganic hybrid solar cells
+                        </article-title>
+                        <source>Nanoscale Res Lett</source>
+                        <year>2011</year>
+                        <volume>6</volume>
+                        <fpage>298</fpage>
+                        <pub-id pub-id-type="doi">10.1186/1556-276X-6-298</pub-id>
+                     </mixed-citation>
+                  </ref>
+                  <ref id="CR7">
+                     <label>7.</label>
+                     <mixed-citation publication-type="journal">
+                        <person-group person-group-type="author">
+                           <name>
+                              <surname>Perraud</surname>
+                              <given-names>S</given-names>
+                           </name>
+                           <name>
+                              <surname>Poncet</surname>
+                              <given-names>S</given-names>
+                           </name>
+                           <name>
+                              <surname>Noel</surname>
+                              <given-names>S</given-names>
+                           </name>
+                           <name>
+                              <surname>Levis</surname>
+                              <given-names>M</given-names>
+                           </name>
+                           <name>
+                              <surname>Faucherand</surname>
+                              <given-names>P</given-names>
+                           </name>
+                           <name>
+                              <surname>Rouviere</surname>
+                              <given-names>E</given-names>
+                           </name>
+                           <name>
+                              <surname>Thony</surname>
+                              <given-names>P</given-names>
+                           </name>
+                           <name>
+                              <surname>Jaussaud</surname>
+                              <given-names>C</given-names>
+                           </name>
+                           <name>
+                              <surname>Delsol</surname>
+                              <given-names>R</given-names>
+                           </name>
+                        </person-group>
+                        <article-title xml:lang="en">Full process for integrating silicon nanowire arrays into solar cells</article-title>
+                        <source>Sol Energy Mater Sol Cells</source>
+                        <year>2009</year>
+                        <volume>93</volume>
+                        <fpage>1568</fpage>
+                        <lpage>1571</lpage>
+                        <pub-id pub-id-type="doi">10.1016/j.solmat.2009.04.009</pub-id>
+                     </mixed-citation>
+                  </ref>
+                  <ref id="CR8">
+                     <label>8.</label>
+                     <mixed-citation publication-type="journal">
+                        <person-group person-group-type="author">
+                           <name>
+                              <surname>Eisenhawer</surname>
+                              <given-names>B</given-names>
+                           </name>
+                           <name>
+                              <surname>Sensfuss</surname>
+                              <given-names>S</given-names>
+                           </name>
+                           <name>
+                              <surname>Sivakov</surname>
+                              <given-names>V</given-names>
+                           </name>
+                           <name>
+                              <surname>Pietsch</surname>
+                              <given-names>M</given-names>
+                           </name>
+                           <name>
+                              <surname>Andra</surname>
+                              <given-names>G</given-names>
+                           </name>
+                           <name>
+                              <surname>Falk</surname>
+                              <given-names>F</given-names>
+                           </name>
+                        </person-group>
+                        <article-title xml:lang="en">Increasing the efficiency of polymer solar cells by silicon nanowires</article-title>
+                        <source>Nanotechnology</source>
+                        <year>2011</year>
+                        <volume>22</volume>
+                        <fpage>315401</fpage>
+                        <pub-id pub-id-type="doi">10.1088/0957-4484/22/31/315401</pub-id>
+                     </mixed-citation>
+                  </ref>
+                  <ref id="CR9">
+                     <label>9.</label>
+                     <mixed-citation publication-type="journal">
+                        <person-group person-group-type="author">
+                           <name>
+                              <surname>Thiyagu</surname>
+                              <given-names>S</given-names>
+                           </name>
+                           <name>
+                              <surname>Pei</surname>
+                              <given-names>ZW</given-names>
+                           </name>
+                           <name>
+                              <surname>Jhong</surname>
+                              <given-names>MS</given-names>
+                           </name>
+                        </person-group>
+                        <article-title xml:lang="en">Amorphous silicon nanocone array solar cell</article-title>
+                        <source>Nanoscale Res Lett</source>
+                        <year>2012</year>
+                        <volume>7</volume>
+                        <fpage>172</fpage>
+                        <pub-id pub-id-type="doi">10.1186/1556-276X-7-172</pub-id>
+                     </mixed-citation>
+                  </ref>
+                  <ref id="CR10">
+                     <label>10.</label>
+                     <mixed-citation publication-type="journal">
+                        <person-group person-group-type="author">
+                           <name>
+                              <surname>Atwater</surname>
+                              <given-names>HA</given-names>
+                           </name>
+                           <name>
+                              <surname>Polman</surname>
+                              <given-names>A</given-names>
+                           </name>
+                        </person-group>
+                        <article-title xml:lang="en">Plasmonics for improved photovoltaic devices</article-title>
+                        <source>Nat Mater</source>
+                        <year>2010</year>
+                        <volume>9</volume>
+                        <fpage>205</fpage>
+                        <lpage>213</lpage>
+                        <pub-id pub-id-type="doi">10.1038/nmat2629</pub-id>
+                     </mixed-citation>
+                  </ref>
+                  <ref id="CR11">
+                     <label>11.</label>
+                     <mixed-citation publication-type="journal">
+                        <person-group person-group-type="author">
+                           <name>
+                              <surname>Moiz</surname>
+                              <given-names>SA</given-names>
+                           </name>
+                           <name>
+                              <surname>Nahhas</surname>
+                              <given-names>AM</given-names>
+                           </name>
+                           <name>
+                              <surname>Um</surname>
+                              <given-names>H-D</given-names>
+                           </name>
+                           <name>
+                              <surname>Jee</surname>
+                              <given-names>S-W</given-names>
+                           </name>
+                           <name>
+                              <surname>Cho</surname>
+                              <given-names>HK</given-names>
+                           </name>
+                           <name>
+                              <surname>Kim</surname>
+                              <given-names>S-W</given-names>
+                           </name>
+                           <name>
+                              <surname>Lee</surname>
+                              <given-names>J-H</given-names>
+                           </name>
+                        </person-group>
+                        <article-title xml:lang="en">A stamped PEDOT:PSS-silicon nanowire hybrid solar cell</article-title>
+                        <source>Nanotechnology</source>
+                        <year>2012</year>
+                        <volume>23</volume>
+                        <fpage>145401</fpage>
+                        <pub-id pub-id-type="doi">10.1088/0957-4484/23/14/145401</pub-id>
+                     </mixed-citation>
+                  </ref>
+                  <ref id="CR12">
+                     <label>12.</label>
+                     <mixed-citation publication-type="journal">
+                        <person-group person-group-type="author">
+                           <name>
+                              <surname>Shen</surname>
+                              <given-names>XJ</given-names>
+                           </name>
+                           <name>
+                              <surname>Sun</surname>
+                              <given-names>BQ</given-names>
+                           </name>
+                           <name>
+                              <surname>Liu</surname>
+                              <given-names>D</given-names>
+                           </name>
+                           <name>
+                              <surname>Lee</surname>
+                              <given-names>ST</given-names>
+                           </name>
+                        </person-group>
+                        <article-title xml:lang="en">Hybrid heterojunction solar cell based on organic–inorganic silicon nanowire array architecture</article-title>
+                        <source>J Am Chem Soc</source>
+                        <year>2011</year>
+                        <volume>133</volume>
+                        <fpage>19408</fpage>
+                        <lpage>19415</lpage>
+                        <pub-id pub-id-type="doi">10.1021/ja205703c</pub-id>
+                     </mixed-citation>
+                  </ref>
+                  <ref id="CR13">
+                     <label>13.</label>
+                     <mixed-citation publication-type="journal">
+                        <person-group person-group-type="author">
+                           <name>
+                              <surname>Shu</surname>
+                              <given-names>QK</given-names>
+                           </name>
+                           <name>
+                              <surname>Wei</surname>
+                              <given-names>JQ</given-names>
+                           </name>
+                           <name>
+                              <surname>Wang</surname>
+                              <given-names>KL</given-names>
+                           </name>
+                           <name>
+                              <surname>Zhu</surname>
+                              <given-names>HW</given-names>
+                           </name>
+                           <name>
+                              <surname>Li</surname>
+                              <given-names>Z</given-names>
+                           </name>
+                           <name>
+                              <surname>Jia</surname>
+                              <given-names>Y</given-names>
+                           </name>
+                           <name>
+                              <surname>Gui</surname>
+                              <given-names>XC</given-names>
+                           </name>
+                           <name>
+                              <surname>Guo</surname>
+                              <given-names>N</given-names>
+                           </name>
+                           <name>
+                              <surname>Li</surname>
+                              <given-names>XM</given-names>
+                           </name>
+                           <name>
+                              <surname>Ma</surname>
+                              <given-names>CR</given-names>
+                           </name>
+                           <name>
+                              <surname>Wu</surname>
+                              <given-names>DH</given-names>
+                           </name>
+                        </person-group>
+                        <article-title xml:lang="en">Hybrid heterojunction and photoelectrochemistry solar cell based on silicon nanowires and double-walled carbon nanotubes</article-title>
+                        <source>Nano Lett</source>
+                        <year>2009</year>
+                        <volume>9</volume>
+                        <fpage>4338</fpage>
+                        <lpage>4342</lpage>
+                        <pub-id pub-id-type="doi">10.1021/nl902581k</pub-id>
+                     </mixed-citation>
+                  </ref>
+                  <ref id="CR14">
+                     <label>14.</label>
+                     <mixed-citation publication-type="journal">
+                        <person-group person-group-type="author">
+                           <name>
+                              <surname>Woo</surname>
+                              <given-names>S</given-names>
+                           </name>
+                           <name>
+                              <surname>Jeong</surname>
+                              <given-names>JH</given-names>
+                           </name>
+                           <name>
+                              <surname>Lyu</surname>
+                              <given-names>HK</given-names>
+                           </name>
+                           <name>
+                              <surname>Jeong</surname>
+                              <given-names>S</given-names>
+                           </name>
+                           <name>
+                              <surname>Sim</surname>
+                              <given-names>JH</given-names>
+                           </name>
+                           <name>
+                              <surname>Kim</surname>
+                              <given-names>WH</given-names>
+                           </name>
+                           <name>
+                              <surname>Han</surname>
+                              <given-names>YS</given-names>
+                           </name>
+                           <name>
+                              <surname>Kim</surname>
+                              <given-names>Y</given-names>
+                           </name>
+                        </person-group>
+                        <article-title xml:lang="en">Hybrid solar cells with conducting polymers and vertically aligned silicon nanowire arrays: the effect of silicon conductivity</article-title>
+                        <source>Physica B</source>
+                        <year>2012</year>
+                        <volume>407</volume>
+                        <fpage>3059</fpage>
+                        <lpage>3062</lpage>
+                        <pub-id pub-id-type="doi">10.1016/j.physb.2011.08.099</pub-id>
+                     </mixed-citation>
+                  </ref>
+                  <ref id="CR15">
+                     <label>15.</label>
+                     <mixed-citation publication-type="journal">
+                        <person-group person-group-type="author">
+                           <name>
+                              <surname>Zhang</surname>
+                              <given-names>FT</given-names>
+                           </name>
+                           <name>
+                              <surname>Song</surname>
+                              <given-names>T</given-names>
+                           </name>
+                           <name>
+                              <surname>Sun</surname>
+                              <given-names>BQ</given-names>
+                           </name>
+                        </person-group>
+                        <article-title xml:lang="en">Conjugated polymer-silicon nanowire array hybrid Schottky diode for solar cell application</article-title>
+                        <source>Nanotechnology</source>
+                        <year>2012</year>
+                        <volume>23</volume>
+                        <fpage>194006</fpage>
+                        <pub-id pub-id-type="doi">10.1088/0957-4484/23/19/194006</pub-id>
+                     </mixed-citation>
+                  </ref>
+                  <ref id="CR16">
+                     <label>16.</label>
+                     <mixed-citation publication-type="journal">
+                        <person-group person-group-type="author">
+                           <name>
+                              <surname>Jing-Shun</surname>
+                              <given-names>H</given-names>
+                           </name>
+                           <name>
+                              <surname>Chieh-Yu</surname>
+                              <given-names>H</given-names>
+                           </name>
+                           <name>
+                              <surname>Shu-Jia</surname>
+                              <given-names>S</given-names>
+                           </name>
+                           <name>
+                              <surname>Jiun-Jie</surname>
+                              <given-names>C</given-names>
+                           </name>
+                           <name>
+                              <surname>Ching-Fuh</surname>
+                              <given-names>L</given-names>
+                           </name>
+                        </person-group>
+                        <article-title xml:lang="en">Well-aligned single-crystalline silicon nanowire hybrid solar cells on glass</article-title>
+                        <source>Sol Energy Mater Sol Cells</source>
+                        <year>2009</year>
+                        <volume>93</volume>
+                        <fpage>621</fpage>
+                        <lpage>624</lpage>
+                        <pub-id pub-id-type="doi">10.1016/j.solmat.2008.12.016</pub-id>
+                     </mixed-citation>
+                  </ref>
+                  <ref id="CR17">
+                     <label>17.</label>
+                     <mixed-citation publication-type="journal">
+                        <person-group person-group-type="author">
+                           <name>
+                              <surname>Jianing</surname>
+                              <given-names>P</given-names>
+                           </name>
+                           <name>
+                              <surname>Jinlong</surname>
+                              <given-names>T</given-names>
+                           </name>
+                           <name>
+                              <surname>Yinhua</surname>
+                              <given-names>Z</given-names>
+                           </name>
+                           <name>
+                              <surname>Qingfeng</surname>
+                              <given-names>D</given-names>
+                           </name>
+                           <name>
+                              <surname>Zhaoyang</surname>
+                              <given-names>L</given-names>
+                           </name>
+                           <name>
+                              <surname>Zaifang</surname>
+                              <given-names>L</given-names>
+                           </name>
+                           <name>
+                              <surname>Feipeng</surname>
+                              <given-names>C</given-names>
+                           </name>
+                           <name>
+                              <surname>Jibo</surname>
+                              <given-names>Z</given-names>
+                           </name>
+                           <name>
+                              <surname>Weiqing</surname>
+                              <given-names>X</given-names>
+                           </name>
+                           <name>
+                              <surname>Wenjing</surname>
+                              <given-names>T</given-names>
+                           </name>
+                        </person-group>
+                        <article-title xml:lang="en">Efficiency enhancement of polymer solar cells by incorporating a self-assembled layer of silver nanodisks</article-title>
+                        <source>Sol Energy Mater Sol Cells</source>
+                        <year>2011</year>
+                        <volume>95</volume>
+                        <fpage>3281</fpage>
+                        <lpage>3286</lpage>
+                        <pub-id pub-id-type="doi">10.1016/j.solmat.2011.07.007</pub-id>
+                     </mixed-citation>
+                  </ref>
+                  <ref id="CR18">
+                     <label>18.</label>
+                     <mixed-citation publication-type="journal">
+                        <person-group person-group-type="author">
+                           <name>
+                              <surname>Chattopadhyay</surname>
+                              <given-names>S</given-names>
+                           </name>
+                           <name>
+                              <surname>Lo</surname>
+                              <given-names>HC</given-names>
+                           </name>
+                           <name>
+                              <surname>Hsu</surname>
+                              <given-names>CH</given-names>
+                           </name>
+                           <name>
+                              <surname>Chen</surname>
+                              <given-names>LC</given-names>
+                           </name>
+                           <name>
+                              <surname>Chen</surname>
+                              <given-names>KH</given-names>
+                           </name>
+                        </person-group>
+                        <article-title xml:lang="en">Surface-enhanced Raman spectroscopy using self-assembled silver nanoparticles on silicon nanotips</article-title>
+                        <source>Chem Mater</source>
+                        <year>2005</year>
+                        <volume>17</volume>
+                        <fpage>553</fpage>
+                        <lpage>559</lpage>
+                        <pub-id pub-id-type="doi">10.1021/cm049269y</pub-id>
+                     </mixed-citation>
+                  </ref>
+                  <ref id="CR19">
+                     <label>19.</label>
+                     <mixed-citation publication-type="journal">
+                        <person-group person-group-type="author">
+                           <name>
+                              <surname>Chen</surname>
+                              <given-names>X</given-names>
+                           </name>
+                           <name>
+                              <surname>Jia</surname>
+                              <given-names>BH</given-names>
+                           </name>
+                           <name>
+                              <surname>Saha</surname>
+                              <given-names>JK</given-names>
+                           </name>
+                           <name>
+                              <surname>Cai</surname>
+                              <given-names>BY</given-names>
+                           </name>
+                           <name>
+                              <surname>Stokes</surname>
+                              <given-names>N</given-names>
+                           </name>
+                           <name>
+                              <surname>Qiao</surname>
+                              <given-names>Q</given-names>
+                           </name>
+                           <name>
+                              <surname>Wang</surname>
+                              <given-names>YQ</given-names>
+                           </name>
+                           <name>
+                              <surname>Shi</surname>
+                              <given-names>ZR</given-names>
+                           </name>
+                           <name>
+                              <surname>Gu</surname>
+                              <given-names>M</given-names>
+                           </name>
+                        </person-group>
+                        <article-title xml:lang="en">Broadband enhancement in thin-film amorphous silicon solar cells enabled by nucleated silver nanoparticles</article-title>
+                        <source>Nano Lett</source>
+                        <year>2012</year>
+                        <volume>12</volume>
+                        <fpage>2187</fpage>
+                        <lpage>2192</lpage>
+                        <pub-id pub-id-type="doi">10.1021/nl203463z</pub-id>
+                     </mixed-citation>
+                  </ref>
+                  <ref id="CR20">
+                     <label>20.</label>
+                     <mixed-citation publication-type="journal">
+                        <person-group person-group-type="author">
+                           <name>
+                              <surname>Kalfagiannis</surname>
+                              <given-names>N</given-names>
+                           </name>
+                           <name>
+                              <surname>Karagiannidis</surname>
+                              <given-names>PG</given-names>
+                           </name>
+                           <name>
+                              <surname>Pitsalidis</surname>
+                              <given-names>C</given-names>
+                           </name>
+                           <name>
+                              <surname>Panagiotopoulos</surname>
+                              <given-names>NT</given-names>
+                           </name>
+                           <name>
+                              <surname>Gravalidis</surname>
+                              <given-names>C</given-names>
+                           </name>
+                           <name>
+                              <surname>Kassavetis</surname>
+                              <given-names>S</given-names>
+                           </name>
+                           <name>
+                              <surname>Patsalas</surname>
+                              <given-names>P</given-names>
+                           </name>
+                           <name>
+                              <surname>Logothetidis</surname>
+                              <given-names>S</given-names>
+                           </name>
+                        </person-group>
+                        <article-title xml:lang="en">Plasmonic silver nanoparticles for improved organic solar cells</article-title>
+                        <source>Sol Energy Mater Sol Cells</source>
+                        <year>2012</year>
+                        <volume>104</volume>
+                        <fpage>165</fpage>
+                        <lpage>174</lpage>
+                        <pub-id pub-id-type="doi">10.1016/j.solmat.2012.05.018</pub-id>
+                     </mixed-citation>
+                  </ref>
+                  <ref id="CR21">
+                     <label>21.</label>
+                     <mixed-citation publication-type="journal">
+                        <person-group person-group-type="author">
+                           <name>
+                              <surname>Yoon</surname>
+                              <given-names>WJ</given-names>
+                           </name>
+                           <name>
+                              <surname>Jung</surname>
+                              <given-names>KY</given-names>
+                           </name>
+                           <name>
+                              <surname>Liu</surname>
+                              <given-names>JW</given-names>
+                           </name>
+                           <name>
+                              <surname>Duraisamy</surname>
+                              <given-names>T</given-names>
+                           </name>
+                           <name>
+                              <surname>Revur</surname>
+                              <given-names>R</given-names>
+                           </name>
+                           <name>
+                              <surname>Teixeira</surname>
+                              <given-names>FL</given-names>
+                           </name>
+                           <name>
+                              <surname>Sengupta</surname>
+                              <given-names>S</given-names>
+                           </name>
+                           <name>
+                              <surname>Berger</surname>
+                              <given-names>PR</given-names>
+                           </name>
+                        </person-group>
+                        <article-title xml:lang="en">Plasmon-enhanced optical absorption and photocurrent in organic bulk heterojunction photovoltaic devices using self-assembled layer of silver nanoparticles</article-title>
+                        <source>Sol Energy Mater Sol Cells</source>
+                        <year>2010</year>
+                        <volume>94</volume>
+                        <fpage>128</fpage>
+                        <lpage>132</lpage>
+                        <pub-id pub-id-type="doi">10.1016/j.solmat.2009.08.006</pub-id>
+                     </mixed-citation>
+                  </ref>
+                  <ref id="CR22">
+                     <label>22.</label>
+                     <mixed-citation publication-type="journal">
+                        <person-group person-group-type="author">
+                           <name>
+                              <surname>Huang</surname>
+                              <given-names>BR</given-names>
+                           </name>
+                           <name>
+                              <surname>Yang</surname>
+                              <given-names>YK</given-names>
+                           </name>
+                           <name>
+                              <surname>Lin</surname>
+                              <given-names>TC</given-names>
+                           </name>
+                           <name>
+                              <surname>Yang</surname>
+                              <given-names>WL</given-names>
+                           </name>
+                        </person-group>
+                        <article-title xml:lang="en">A simple and low-cost technique for silicon nanowire arrays based solar cells</article-title>
+                        <source>Sol Energy Mater Sol Cells</source>
+                        <year>2012</year>
+                        <volume>98</volume>
+                        <fpage>357</fpage>
+                        <lpage>362</lpage>
+                        <pub-id pub-id-type="doi">10.1016/j.solmat.2011.11.031</pub-id>
+                     </mixed-citation>
+                  </ref>
+                  <ref id="CR23">
+                     <label>23.</label>
+                     <mixed-citation publication-type="journal">
+                        <person-group person-group-type="author">
+                           <name>
+                              <surname>Kuo</surname>
+                              <given-names>CY</given-names>
+                           </name>
+                           <name>
+                              <surname>Gau</surname>
+                              <given-names>C</given-names>
+                           </name>
+                        </person-group>
+                        <article-title xml:lang="en">Arrangement of band structure for organic–inorganic photovoltaics embedded with silicon nanowire arrays grown on indium tin oxide glass</article-title>
+                        <source>Appl Phys Lett</source>
+                        <year>2009</year>
+                        <volume>95</volume>
+                        <fpage>053302</fpage>
+                        <pub-id pub-id-type="doi">10.1063/1.3189088</pub-id>
+                     </mixed-citation>
+                  </ref>
+                  <ref id="CR24">
+                     <label>24.</label>
+                     <mixed-citation publication-type="journal">
+                        <person-group person-group-type="author">
+                           <name>
+                              <surname>Huang</surname>
+                              <given-names>ZP</given-names>
+                           </name>
+                           <name>
+                              <surname>Fang</surname>
+                              <given-names>H</given-names>
+                           </name>
+                           <name>
+                              <surname>Zhu</surname>
+                              <given-names>J</given-names>
+                           </name>
+                        </person-group>
+                        <article-title xml:lang="en">Fabrication of silicon nanowire arrays with controlled diameter, length, and density</article-title>
+                        <source>Adv Mater</source>
+                        <year>2007</year>
+                        <volume>19</volume>
+                        <fpage>744</fpage>
+                        <lpage>748</lpage>
+                        <pub-id pub-id-type="doi">10.1002/adma.200600892</pub-id>
+                     </mixed-citation>
+                  </ref>
+                  <ref id="CR25">
+                     <label>25.</label>
+                     <mixed-citation publication-type="journal">
+                        <person-group person-group-type="author">
+                           <name>
+                              <surname>Huang</surname>
+                              <given-names>ZP</given-names>
+                           </name>
+                           <name>
+                              <surname>Geyer</surname>
+                              <given-names>N</given-names>
+                           </name>
+                           <name>
+                              <surname>Werner</surname>
+                              <given-names>P</given-names>
+                           </name>
+                           <name>
+                              <surname>de Boor</surname>
+                              <given-names>J</given-names>
+                           </name>
+                           <name>
+                              <surname>Gosele</surname>
+                              <given-names>U</given-names>
+                           </name>
+                        </person-group>
+                        <article-title xml:lang="en">Metal-assisted chemical etching of silicon: a review</article-title>
+                        <source>Adv Mater</source>
+                        <year>2011</year>
+                        <volume>23</volume>
+                        <fpage>285</fpage>
+                        <lpage>308</lpage>
+                        <pub-id pub-id-type="doi">10.1002/adma.201001784</pub-id>
+                     </mixed-citation>
+                  </ref>
+                  <ref id="CR26">
+                     <label>26.</label>
+                     <mixed-citation publication-type="journal">
+                        <person-group person-group-type="author">
+                           <name>
+                              <surname>Adikaari</surname>
+                              <given-names>A</given-names>
+                           </name>
+                           <name>
+                              <surname>Dissanayake</surname>
+                              <given-names>D</given-names>
+                           </name>
+                           <name>
+                              <surname>Hatton</surname>
+                              <given-names>RA</given-names>
+                           </name>
+                           <name>
+                              <surname>Silva</surname>
+                              <given-names>SRP</given-names>
+                           </name>
+                        </person-group>
+                        <article-title xml:lang="en">Efficient laser textured nanocrystalline silicon-polymer bilayer solar cells</article-title>
+                        <source>Appl Phys Lett</source>
+                        <year>2007</year>
+                        <volume>90</volume>
+                        <fpage>203514</fpage>
+                        <pub-id pub-id-type="doi">10.1063/1.2739365</pub-id>
+                     </mixed-citation>
+                  </ref>
+                  <ref id="CR27">
+                     <label>27.</label>
+                     <mixed-citation publication-type="journal">
+                        <person-group person-group-type="author">
+                           <name>
+                              <surname>Ameri</surname>
+                              <given-names>T</given-names>
+                           </name>
+                           <name>
+                              <surname>Dennler</surname>
+                              <given-names>G</given-names>
+                           </name>
+                           <name>
+                              <surname>Lungenschmied</surname>
+                              <given-names>C</given-names>
+                           </name>
+                           <name>
+                              <surname>Brabec</surname>
+                              <given-names>CJ</given-names>
+                           </name>
+                        </person-group>
+                        <article-title xml:lang="en">Organic tandem solar cells: a review</article-title>
+                        <source>Energ Environ Sci</source>
+                        <year>2009</year>
+                        <volume>2</volume>
+                        <fpage>347</fpage>
+                        <lpage>363</lpage>
+                        <pub-id pub-id-type="doi">10.1039/b817952b</pub-id>
+                     </mixed-citation>
+                  </ref>
+                  <ref id="CR28">
+                     <label>28.</label>
+                     <mixed-citation publication-type="journal">
+                        <person-group person-group-type="author">
+                           <name>
+                              <surname>Jung</surname>
+                              <given-names>JY</given-names>
+                           </name>
+                           <name>
+                              <surname>Zhou</surname>
+                              <given-names>K</given-names>
+                           </name>
+                           <name>
+                              <surname>Bang</surname>
+                              <given-names>JH</given-names>
+                           </name>
+                           <name>
+                              <surname>Lee</surname>
+                              <given-names>JH</given-names>
+                           </name>
+                        </person-group>
+                        <article-title xml:lang="en">Improved photovoltaic performance of Si nanowire solar cells integrated with ZnSe quantum dots</article-title>
+                        <source>J Phys Chem C</source>
+                        <year>2012</year>
+                        <volume>116</volume>
+                        <fpage>12409</fpage>
+                        <lpage>12414</lpage>
+                        <pub-id pub-id-type="doi">10.1021/jp301683q</pub-id>
+                     </mixed-citation>
+                  </ref>
+                  <ref id="CR29">
+                     <label>29.</label>
+                     <mixed-citation publication-type="journal">
+                        <person-group person-group-type="author">
+                           <name>
+                              <surname>Liu</surname>
+                              <given-names>WF</given-names>
+                           </name>
+                           <name>
+                              <surname>Oh</surname>
+                              <given-names>JI</given-names>
+                           </name>
+                           <name>
+                              <surname>Shen</surname>
+                              <given-names>WZ</given-names>
+                           </name>
+                        </person-group>
+                        <article-title xml:lang="en">Light trapping in single coaxial nanowires for photovoltaic applications</article-title>
+                        <source>IEEE Electron Device Lett</source>
+                        <year>2011</year>
+                        <volume>32</volume>
+                        <fpage>45</fpage>
+                        <lpage>47</lpage>
+                        <pub-id pub-id-type="doi">10.1109/LED.2010.2086428</pub-id>
+                     </mixed-citation>
+                  </ref>
+                  <ref id="CR30">
+                     <label>30.</label>
+                     <mixed-citation publication-type="journal">
+                        <person-group person-group-type="author">
+                           <name>
+                              <surname>Hu</surname>
+                              <given-names>JC</given-names>
+                           </name>
+                           <name>
+                              <surname>Shirai</surname>
+                              <given-names>Y</given-names>
+                           </name>
+                           <name>
+                              <surname>Han</surname>
+                              <given-names>LY</given-names>
+                           </name>
+                           <name>
+                              <surname>Wakayama</surname>
+                              <given-names>Y</given-names>
+                           </name>
+                        </person-group>
+                        <article-title xml:lang="en">Template method for fabricating interdigitate p-n heterojunction for organic solar cell</article-title>
+                        <source>Nanoscale Res Lett</source>
+                        <year>2012</year>
+                        <volume>7</volume>
+                        <fpage>469</fpage>
+                        <pub-id pub-id-type="doi">10.1186/1556-276X-7-469</pub-id>
+                     </mixed-citation>
+                  </ref>
+                  <ref id="CR31">
+                     <label>31.</label>
+                     <mixed-citation publication-type="journal">
+                        <person-group person-group-type="author">
+                           <name>
+                              <surname>Jia</surname>
+                              <given-names>GB</given-names>
+                           </name>
+                           <name>
+                              <surname>Steglich</surname>
+                              <given-names>M</given-names>
+                           </name>
+                           <name>
+                              <surname>Sill</surname>
+                              <given-names>I</given-names>
+                           </name>
+                           <name>
+                              <surname>Falk</surname>
+                              <given-names>F</given-names>
+                           </name>
+                        </person-group>
+                        <article-title xml:lang="en">Core-shell heterojunction solar cells on silicon nanowire arrays</article-title>
+                        <source>Sol Energy Mater Sol Cells</source>
+                        <year>2012</year>
+                        <volume>96</volume>
+                        <fpage>226</fpage>
+                        <lpage>230</lpage>
+                        <pub-id pub-id-type="doi">10.1016/j.solmat.2011.09.062</pub-id>
+                     </mixed-citation>
+                  </ref>
+               </ref-list>
+            </ref-list>
+            <app-group>
+               <app id="App1">
+                  <sec id="Sec5">
+                     <title>Authors’ original submitted files for images</title>
+                     <p>
+                        Below are the links to the authors’ original submitted files for images.
+                        <supplementary-material content-type="local-data" id="MOESM1" xlink:title="Authors’ original submitted files for images">
+                           <media xlink:href="MediaObjects/11671_2012_1315_MOESM1_ESM.tiff" mimetype="mediaobjects" mime-subtype="11671_2012_1315_moesm1_esm.tiff">
+                              <caption xml:lang="en">
+                                 <p>Authors’ original file for figure 2</p>
+                              </caption>
+                           </media>
+                        </supplementary-material>
+                        <supplementary-material content-type="local-data" id="MOESM2" xlink:title="Authors’ original submitted files for images">
+                           <media xlink:href="MediaObjects/11671_2012_1315_MOESM2_ESM.tiff" mimetype="mediaobjects" mime-subtype="11671_2012_1315_moesm2_esm.tiff">
+                              <caption xml:lang="en">
+                                 <p>Authors’ original file for figure 3</p>
+                              </caption>
+                           </media>
+                        </supplementary-material>
+                        <supplementary-material content-type="local-data" id="MOESM3" xlink:title="Authors’ original submitted files for images">
+                           <media xlink:href="MediaObjects/11671_2012_1315_MOESM3_ESM.tiff" mimetype="mediaobjects" mime-subtype="11671_2012_1315_moesm3_esm.tiff">
+                              <caption xml:lang="en">
+                                 <p>Authors’ original file for figure 4</p>
+                              </caption>
+                           </media>
+                        </supplementary-material>
+                        <supplementary-material content-type="local-data" id="MOESM4" xlink:title="Authors’ original submitted files for images">
+                           <media xlink:href="MediaObjects/11671_2012_1315_MOESM4_ESM.tiff" mimetype="mediaobjects" mime-subtype="11671_2012_1315_moesm4_esm.tiff">
+                              <caption xml:lang="en">
+                                 <p>Authors’ original file for figure 5</p>
+                              </caption>
+                           </media>
+                        </supplementary-material>
+                        <supplementary-material content-type="local-data" id="MOESM5" xlink:title="Authors’ original submitted files for images">
+                           <media xlink:href="MediaObjects/11671_2012_1315_MOESM5_ESM.tiff" mimetype="mediaobjects" mime-subtype="11671_2012_1315_moesm5_esm.tiff">
+                              <caption xml:lang="en">
+                                 <p>Authors’ original file for figure 6</p>
+                              </caption>
+                           </media>
+                        </supplementary-material>
+                        <supplementary-material content-type="local-data" id="MOESM6" xlink:title="Authors’ original submitted files for images">
+                           <media xlink:href="MediaObjects/11671_2012_1315_MOESM6_ESM.tiff" mimetype="mediaobjects" mime-subtype="11671_2012_1315_moesm6_esm.tiff">
+                              <caption xml:lang="en">
+                                 <p>Authors’ original file for figure 7</p>
+                              </caption>
+                           </media>
+                        </supplementary-material>
+                     </p>
+                  </sec>
+               </app>
+            </app-group>
+            <notes notes-type="Misc">
+               <title>Competing interests</title>
+               <p>The authors declare that they have no competing interests.</p>
+            </notes>
+            <notes notes-type="Misc">
+               <title>Authors' contributions</title>
+               <p>KL participated in the design of the study, carried out the total experiment, performed the statistical analysis, as well as drafted the manuscript. SQ participated in the guidance of the experiment. XZ helped give the corrections of the manuscript. ZW helped give the theoretical guidance of the experiment. FT gave some help in obtaining the reading papers. All authors read and approved the final manuscript.</p>
+            </notes>
+         </back>
+      </article>
+   </records>
+   <facets>
+      <facet name="subject">
+         <facet-value count="1">Material Science</facet-value>
+         <facet-value count="1">Molecular Medicine</facet-value>
+         <facet-value count="1">Nanochemistry</facet-value>
+         <facet-value count="1">Nanoscale Science and Technology</facet-value>
+         <facet-value count="1">Nanotechnology</facet-value>
+         <facet-value count="1">Nanotechnology and Microengineering</facet-value>
+      </facet>
+      <facet name="keyword">
+         <facet-value count="1">Hybrid solar cell</facet-value>
+         <facet-value count="1">Silicon nanowire</facet-value>
+         <facet-value count="1">Silver nanoparticle</facet-value>
+         <facet-value count="1">Surface plasmon resonance</facet-value>
+      </facet>
+      <facet name="pub">
+         <facet-value count="1">Nanoscale Research Letters</facet-value>
+      </facet>
+      <facet name="year">
+         <facet-value count="1">2013</facet-value>
+      </facet>
+      <facet name="country">
+         <facet-value count="1">China</facet-value>
+      </facet>
+      <facet name="type">
+         <facet-value count="1">Journal</facet-value>
+      </facet>
+   </facets>
+</response>
